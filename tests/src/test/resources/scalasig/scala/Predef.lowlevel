@@ -1,0 +1,8470 @@
+scalasig {
+  name: "scala/Predef"
+  source: "Predef.scala"
+  entries {
+    index: 0
+    tag: MODULEsym
+    name: 199
+    owner: 200
+    flags: MODULE
+    info: 203
+  }
+  entries {
+    index: 1
+    tag: CLASSsym
+    name: 205
+    owner: 200
+    flags: MODULE
+    info: 206
+  }
+  entries {
+    index: 2
+    tag: VALsym
+    name: 213
+    owner: 1
+    flags: METHOD
+    info: 214
+  }
+  entries {
+    index: 3
+    tag: VALsym
+    name: 215
+    owner: 1
+    flags: METHOD
+    info: 216
+  }
+  entries {
+    index: 4
+    tag: ALIASsym
+    name: 242
+    owner: 1
+    flags: 
+    info: 243
+  }
+  entries {
+    index: 5
+    tag: ALIASsym
+    name: 220
+    owner: 1
+    flags: 
+    info: 221
+  }
+  entries {
+    index: 6
+    tag: ALIASsym
+    name: 245
+    owner: 1
+    flags: 
+    info: 246
+  }
+  entries {
+    index: 7
+    tag: ALIASsym
+    name: 256
+    owner: 1
+    flags: 
+    info: 257
+  }
+  entries {
+    index: 8
+    tag: ALIASsym
+    name: 269
+    owner: 1
+    flags: 
+    info: 270
+  }
+  entries {
+    index: 9
+    tag: VALsym
+    name: 275
+    owner: 1
+    flags: METHOD | STABLE | ACCESSOR
+    info: 276
+  }
+  entries {
+    index: 10
+    tag: VALsym
+    name: 282
+    owner: 1
+    flags: PRIVATE | LOCAL
+    info: 277
+  }
+  entries {
+    index: 11
+    tag: VALsym
+    name: 283
+    owner: 1
+    flags: METHOD | STABLE | ACCESSOR
+    info: 284
+  }
+  entries {
+    index: 12
+    tag: VALsym
+    name: 287
+    owner: 1
+    flags: PRIVATE | LOCAL
+    info: 285
+  }
+  entries {
+    index: 13
+    tag: ALIASsym
+    name: 288
+    owner: 1
+    flags: 
+    info: 289
+  }
+  entries {
+    index: 14
+    tag: ALIASsym
+    name: 324
+    owner: 1
+    flags: 
+    info: 325
+  }
+  entries {
+    index: 15
+    tag: ALIASsym
+    name: 331
+    owner: 1
+    flags: 
+    info: 332
+  }
+  entries {
+    index: 16
+    tag: VALsym
+    name: 340
+    owner: 1
+    flags: METHOD | STABLE | ACCESSOR
+    info: 341
+  }
+  entries {
+    index: 17
+    tag: VALsym
+    name: 346
+    owner: 1
+    flags: PRIVATE | LOCAL
+    info: 342
+  }
+  entries {
+    index: 18
+    tag: VALsym
+    name: 348
+    owner: 1
+    flags: METHOD | STABLE | ACCESSOR
+    info: 349
+  }
+  entries {
+    index: 19
+    tag: VALsym
+    name: 353
+    owner: 1
+    flags: PRIVATE | LOCAL
+    info: 350
+  }
+  entries {
+    index: 20
+    tag: VALsym
+    name: 354
+    owner: 1
+    flags: METHOD | STABLE | ACCESSOR
+    info: 355
+  }
+  entries {
+    index: 21
+    tag: VALsym
+    name: 358
+    owner: 1
+    flags: PRIVATE | LOCAL
+    info: 356
+  }
+  entries {
+    index: 22
+    tag: VALsym
+    name: 359
+    owner: 1
+    flags: METHOD
+    info: 360
+  }
+  entries {
+    index: 23
+    tag: VALsym
+    name: 367
+    owner: 1
+    flags: METHOD
+    info: 368
+  }
+  entries {
+    index: 24
+    tag: VALsym
+    name: 377
+    owner: 1
+    flags: METHOD
+    info: 378
+  }
+  entries {
+    index: 25
+    tag: VALsym
+    name: 384
+    owner: 1
+    flags: METHOD
+    info: 385
+  }
+  entries {
+    index: 26
+    tag: VALsym
+    name: 395
+    owner: 1
+    flags: METHOD
+    info: 396
+  }
+  entries {
+    index: 27
+    tag: VALsym
+    name: 403
+    owner: 1
+    flags: METHOD
+    info: 404
+  }
+  entries {
+    index: 28
+    tag: VALsym
+    name: 410
+    owner: 1
+    flags: METHOD
+    info: 411
+  }
+  entries {
+    index: 29
+    tag: VALsym
+    name: 410
+    owner: 1
+    flags: FINAL | METHOD
+    info: 425
+  }
+  entries {
+    index: 30
+    tag: VALsym
+    name: 434
+    owner: 1
+    flags: METHOD
+    info: 435
+  }
+  entries {
+    index: 31
+    tag: VALsym
+    name: 434
+    owner: 1
+    flags: FINAL | METHOD
+    info: 439
+  }
+  entries {
+    index: 32
+    tag: VALsym
+    name: 444
+    owner: 1
+    flags: METHOD
+    info: 445
+  }
+  entries {
+    index: 33
+    tag: VALsym
+    name: 444
+    owner: 1
+    flags: FINAL | METHOD
+    info: 448
+  }
+  entries {
+    index: 34
+    tag: VALsym
+    name: 452
+    owner: 1
+    flags: METHOD
+    info: 453
+  }
+  entries {
+    index: 35
+    tag: ALIASsym
+    name: 454
+    owner: 1
+    flags: 
+    info: 455
+  }
+  entries {
+    index: 36
+    tag: MODULEsym
+    name: 468
+    owner: 1
+    flags: MODULE
+    info: 469
+  }
+  entries {
+    index: 37
+    tag: CLASSsym
+    name: 454
+    owner: 1
+    flags: MODULE
+    info: 470
+  }
+  entries {
+    index: 38
+    tag: VALsym
+    name: 213
+    owner: 37
+    flags: METHOD
+    info: 474
+  }
+  entries {
+    index: 39
+    tag: VALsym
+    name: 475
+    owner: 37
+    flags: METHOD
+    info: 476
+  }
+  entries {
+    index: 40
+    tag: VALsym
+    name: 486
+    owner: 37
+    flags: METHOD
+    info: 487
+  }
+  entries {
+    index: 41
+    tag: ALIASsym
+    name: 500
+    owner: 1
+    flags: 
+    info: 501
+  }
+  entries {
+    index: 42
+    tag: MODULEsym
+    name: 515
+    owner: 1
+    flags: MODULE
+    info: 516
+  }
+  entries {
+    index: 43
+    tag: CLASSsym
+    name: 500
+    owner: 1
+    flags: MODULE
+    info: 517
+  }
+  entries {
+    index: 44
+    tag: VALsym
+    name: 213
+    owner: 43
+    flags: METHOD
+    info: 518
+  }
+  entries {
+    index: 45
+    tag: VALsym
+    name: 475
+    owner: 43
+    flags: METHOD
+    info: 519
+  }
+  entries {
+    index: 46
+    tag: VALsym
+    name: 486
+    owner: 43
+    flags: METHOD
+    info: 532
+  }
+  entries {
+    index: 47
+    tag: CLASSsym
+    name: 545
+    owner: 1
+    flags: IMPLICIT | FINAL
+    info: 546
+  }
+  entries {
+    index: 48
+    tag: VALsym
+    name: 551
+    owner: 47
+    flags: PRIVATE | METHOD | STABLE | ACCESSOR | PARAMACCESSOR | EXPANDEDNAME | notPRIVATE
+    info: 552
+  }
+  entries {
+    index: 49
+    tag: VALsym
+    name: 555
+    owner: 47
+    flags: PRIVATE | LOCAL | PARAMACCESSOR | EXPANDEDNAME
+    info: 553
+  }
+  entries {
+    index: 50
+    tag: VALsym
+    name: 213
+    owner: 47
+    flags: METHOD
+    info: 556
+  }
+  entries {
+    index: 51
+    tag: VALsym
+    name: 560
+    owner: 47
+    flags: METHOD
+    info: 561
+  }
+  entries {
+    index: 52
+    tag: VALsym
+    name: 568
+    owner: 47
+    flags: METHOD
+    info: 569
+  }
+  entries {
+    index: 53
+    tag: VALsym
+    name: 575
+    owner: 47
+    flags: OVERRIDE | METHOD | SYNTHETIC
+    info: 576
+  }
+  entries {
+    index: 54
+    tag: VALsym
+    name: 580
+    owner: 47
+    flags: OVERRIDE | METHOD | SYNTHETIC
+    info: 581
+  }
+  entries {
+    index: 55
+    tag: VALsym
+    name: 584
+    owner: 1
+    flags: IMPLICIT | METHOD | SYNTHETIC
+    info: 585
+  }
+  entries {
+    index: 56
+    tag: CLASSsym
+    name: 591
+    owner: 1
+    flags: IMPLICIT | FINAL
+    info: 592
+  }
+  entries {
+    index: 57
+    tag: VALsym
+    name: 594
+    owner: 56
+    flags: PRIVATE | METHOD | STABLE | ACCESSOR | PARAMACCESSOR | EXPANDEDNAME | notPRIVATE
+    info: 595
+  }
+  entries {
+    index: 58
+    tag: VALsym
+    name: 598
+    owner: 56
+    flags: PRIVATE | LOCAL | PARAMACCESSOR | EXPANDEDNAME
+    info: 596
+  }
+  entries {
+    index: 59
+    tag: VALsym
+    name: 213
+    owner: 56
+    flags: METHOD
+    info: 599
+  }
+  entries {
+    index: 60
+    tag: VALsym
+    name: 602
+    owner: 56
+    flags: METHOD
+    info: 603
+  }
+  entries {
+    index: 61
+    tag: VALsym
+    name: 602
+    owner: 56
+    flags: METHOD
+    info: 606
+  }
+  entries {
+    index: 62
+    tag: VALsym
+    name: 602
+    owner: 56
+    flags: METHOD
+    info: 610
+  }
+  entries {
+    index: 63
+    tag: VALsym
+    name: 602
+    owner: 56
+    flags: METHOD
+    info: 613
+  }
+  entries {
+    index: 64
+    tag: VALsym
+    name: 575
+    owner: 56
+    flags: OVERRIDE | METHOD | SYNTHETIC
+    info: 576
+  }
+  entries {
+    index: 65
+    tag: VALsym
+    name: 580
+    owner: 56
+    flags: OVERRIDE | METHOD | SYNTHETIC
+    info: 616
+  }
+  entries {
+    index: 66
+    tag: VALsym
+    name: 618
+    owner: 1
+    flags: IMPLICIT | METHOD | SYNTHETIC
+    info: 619
+  }
+  entries {
+    index: 67
+    tag: CLASSsym
+    name: 625
+    owner: 1
+    flags: IMPLICIT | FINAL
+    info: 626
+  }
+  entries {
+    index: 68
+    tag: VALsym
+    name: 628
+    owner: 67
+    flags: PRIVATE | METHOD | STABLE | ACCESSOR | PARAMACCESSOR | EXPANDEDNAME | notPRIVATE
+    info: 629
+  }
+  entries {
+    index: 69
+    tag: VALsym
+    name: 632
+    owner: 67
+    flags: PRIVATE | LOCAL | PARAMACCESSOR | EXPANDEDNAME
+    info: 630
+  }
+  entries {
+    index: 70
+    tag: VALsym
+    name: 213
+    owner: 67
+    flags: METHOD
+    info: 633
+  }
+  entries {
+    index: 71
+    tag: VALsym
+    name: 636
+    owner: 67
+    flags: METHOD
+    info: 637
+  }
+  entries {
+    index: 72
+    tag: VALsym
+    name: 575
+    owner: 67
+    flags: OVERRIDE | METHOD | SYNTHETIC
+    info: 576
+  }
+  entries {
+    index: 73
+    tag: VALsym
+    name: 580
+    owner: 67
+    flags: OVERRIDE | METHOD | SYNTHETIC
+    info: 642
+  }
+  entries {
+    index: 74
+    tag: VALsym
+    name: 644
+    owner: 1
+    flags: IMPLICIT | METHOD | SYNTHETIC
+    info: 645
+  }
+  entries {
+    index: 75
+    tag: CLASSsym
+    name: 651
+    owner: 1
+    flags: IMPLICIT | FINAL
+    info: 652
+  }
+  entries {
+    index: 76
+    tag: VALsym
+    name: 654
+    owner: 75
+    flags: PRIVATE | METHOD | STABLE | ACCESSOR | PARAMACCESSOR | EXPANDEDNAME | notPRIVATE
+    info: 655
+  }
+  entries {
+    index: 77
+    tag: VALsym
+    name: 658
+    owner: 75
+    flags: PRIVATE | LOCAL | PARAMACCESSOR | EXPANDEDNAME
+    info: 656
+  }
+  entries {
+    index: 78
+    tag: VALsym
+    name: 213
+    owner: 75
+    flags: METHOD
+    info: 659
+  }
+  entries {
+    index: 79
+    tag: VALsym
+    name: 662
+    owner: 75
+    flags: METHOD
+    info: 663
+  }
+  entries {
+    index: 80
+    tag: VALsym
+    name: 575
+    owner: 75
+    flags: OVERRIDE | METHOD | SYNTHETIC
+    info: 576
+  }
+  entries {
+    index: 81
+    tag: VALsym
+    name: 580
+    owner: 75
+    flags: OVERRIDE | METHOD | SYNTHETIC
+    info: 666
+  }
+  entries {
+    index: 82
+    tag: VALsym
+    name: 668
+    owner: 1
+    flags: IMPLICIT | METHOD | SYNTHETIC
+    info: 669
+  }
+  entries {
+    index: 83
+    tag: CLASSsym
+    name: 675
+    owner: 1
+    flags: IMPLICIT | FINAL
+    info: 676
+  }
+  entries {
+    index: 84
+    tag: VALsym
+    name: 677
+    owner: 83
+    flags: PRIVATE | METHOD | STABLE | ACCESSOR | PARAMACCESSOR | EXPANDEDNAME | notPRIVATE
+    info: 678
+  }
+  entries {
+    index: 85
+    tag: VALsym
+    name: 685
+    owner: 83
+    flags: PRIVATE | LOCAL | PARAMACCESSOR | EXPANDEDNAME
+    info: 679
+  }
+  entries {
+    index: 86
+    tag: VALsym
+    name: 213
+    owner: 83
+    flags: METHOD
+    info: 686
+  }
+  entries {
+    index: 87
+    tag: VALsym
+    name: 689
+    owner: 83
+    flags: METHOD
+    info: 690
+  }
+  entries {
+    index: 88
+    tag: VALsym
+    name: 575
+    owner: 83
+    flags: OVERRIDE | METHOD | SYNTHETIC
+    info: 576
+  }
+  entries {
+    index: 89
+    tag: VALsym
+    name: 580
+    owner: 83
+    flags: OVERRIDE | METHOD | SYNTHETIC
+    info: 697
+  }
+  entries {
+    index: 90
+    tag: VALsym
+    name: 699
+    owner: 1
+    flags: IMPLICIT | METHOD | SYNTHETIC
+    info: 700
+  }
+  entries {
+    index: 91
+    tag: CLASSsym
+    name: 702
+    owner: 1
+    flags: IMPLICIT | FINAL
+    info: 703
+  }
+  entries {
+    index: 92
+    tag: VALsym
+    name: 710
+    owner: 91
+    flags: METHOD | STABLE | ACCESSOR | PARAMACCESSOR
+    info: 711
+  }
+  entries {
+    index: 93
+    tag: VALsym
+    name: 723
+    owner: 91
+    flags: PRIVATE | LOCAL | PARAMACCESSOR
+    info: 712
+  }
+  entries {
+    index: 94
+    tag: VALsym
+    name: 213
+    owner: 91
+    flags: METHOD
+    info: 725
+  }
+  entries {
+    index: 95
+    tag: VALsym
+    name: 733
+    owner: 91
+    flags: METHOD
+    info: 576
+  }
+  entries {
+    index: 96
+    tag: VALsym
+    name: 734
+    owner: 91
+    flags: METHOD
+    info: 735
+  }
+  entries {
+    index: 97
+    tag: VALsym
+    name: 738
+    owner: 91
+    flags: METHOD
+    info: 739
+  }
+  entries {
+    index: 98
+    tag: VALsym
+    name: 744
+    owner: 91
+    flags: OVERRIDE | METHOD
+    info: 745
+  }
+  entries {
+    index: 99
+    tag: VALsym
+    name: 746
+    owner: 1
+    flags: IMPLICIT | METHOD | SYNTHETIC
+    info: 747
+  }
+  entries {
+    index: 100
+    tag: CLASSsym
+    name: 751
+    owner: 1
+    flags: IMPLICIT | FINAL
+    info: 752
+  }
+  entries {
+    index: 101
+    tag: VALsym
+    name: 753
+    owner: 100
+    flags: METHOD | STABLE | ACCESSOR | PARAMACCESSOR
+    info: 754
+  }
+  entries {
+    index: 102
+    tag: VALsym
+    name: 759
+    owner: 100
+    flags: PRIVATE | LOCAL | PARAMACCESSOR
+    info: 755
+  }
+  entries {
+    index: 103
+    tag: VALsym
+    name: 213
+    owner: 100
+    flags: METHOD
+    info: 761
+  }
+  entries {
+    index: 104
+    tag: VALsym
+    name: 733
+    owner: 100
+    flags: METHOD
+    info: 576
+  }
+  entries {
+    index: 105
+    tag: VALsym
+    name: 734
+    owner: 100
+    flags: METHOD
+    info: 765
+  }
+  entries {
+    index: 106
+    tag: VALsym
+    name: 738
+    owner: 100
+    flags: METHOD
+    info: 767
+  }
+  entries {
+    index: 107
+    tag: VALsym
+    name: 744
+    owner: 100
+    flags: OVERRIDE | METHOD
+    info: 745
+  }
+  entries {
+    index: 108
+    tag: VALsym
+    name: 770
+    owner: 1
+    flags: IMPLICIT | METHOD | SYNTHETIC
+    info: 771
+  }
+  entries {
+    index: 109
+    tag: VALsym
+    name: 775
+    owner: 1
+    flags: IMPLICIT | METHOD | STABLE | ACCESSOR
+    info: 776
+  }
+  entries {
+    index: 110
+    tag: VALsym
+    name: 783
+    owner: 1
+    flags: PRIVATE | LOCAL
+    info: 777
+  }
+  entries {
+    index: 111
+    tag: VALsym
+    name: 784
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 785
+  }
+  entries {
+    index: 112
+    tag: VALsym
+    name: 791
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 792
+  }
+  entries {
+    index: 113
+    tag: VALsym
+    name: 795
+    owner: 1
+    flags: METHOD
+    info: 796
+  }
+  entries {
+    index: 114
+    tag: VALsym
+    name: 798
+    owner: 1
+    flags: METHOD
+    info: 799
+  }
+  entries {
+    index: 115
+    tag: VALsym
+    name: 798
+    owner: 1
+    flags: METHOD
+    info: 800
+  }
+  entries {
+    index: 116
+    tag: VALsym
+    name: 802
+    owner: 1
+    flags: METHOD
+    info: 803
+  }
+  entries {
+    index: 117
+    tag: VALsym
+    name: 811
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 812
+  }
+  entries {
+    index: 118
+    tag: VALsym
+    name: 833
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 834
+  }
+  entries {
+    index: 119
+    tag: VALsym
+    name: 851
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 852
+  }
+  entries {
+    index: 120
+    tag: VALsym
+    name: 864
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 865
+  }
+  entries {
+    index: 121
+    tag: VALsym
+    name: 875
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 876
+  }
+  entries {
+    index: 122
+    tag: VALsym
+    name: 885
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 886
+  }
+  entries {
+    index: 123
+    tag: VALsym
+    name: 891
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 892
+  }
+  entries {
+    index: 124
+    tag: VALsym
+    name: 901
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 902
+  }
+  entries {
+    index: 125
+    tag: VALsym
+    name: 911
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 912
+  }
+  entries {
+    index: 126
+    tag: VALsym
+    name: 918
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 919
+  }
+  entries {
+    index: 127
+    tag: VALsym
+    name: 928
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 929
+  }
+  entries {
+    index: 128
+    tag: VALsym
+    name: 939
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 940
+  }
+  entries {
+    index: 129
+    tag: VALsym
+    name: 949
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 950
+  }
+  entries {
+    index: 130
+    tag: VALsym
+    name: 956
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 957
+  }
+  entries {
+    index: 131
+    tag: VALsym
+    name: 961
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 962
+  }
+  entries {
+    index: 132
+    tag: VALsym
+    name: 966
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 967
+  }
+  entries {
+    index: 133
+    tag: VALsym
+    name: 972
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 973
+  }
+  entries {
+    index: 134
+    tag: VALsym
+    name: 978
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 979
+  }
+  entries {
+    index: 135
+    tag: VALsym
+    name: 983
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 984
+  }
+  entries {
+    index: 136
+    tag: VALsym
+    name: 988
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 989
+  }
+  entries {
+    index: 137
+    tag: VALsym
+    name: 993
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 994
+  }
+  entries {
+    index: 138
+    tag: VALsym
+    name: 998
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 999
+  }
+  entries {
+    index: 139
+    tag: VALsym
+    name: 1001
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 1002
+  }
+  entries {
+    index: 140
+    tag: VALsym
+    name: 1004
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 1005
+  }
+  entries {
+    index: 141
+    tag: VALsym
+    name: 1007
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 1008
+  }
+  entries {
+    index: 142
+    tag: VALsym
+    name: 1010
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 1011
+  }
+  entries {
+    index: 143
+    tag: VALsym
+    name: 1013
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 1014
+  }
+  entries {
+    index: 144
+    tag: VALsym
+    name: 1016
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 1017
+  }
+  entries {
+    index: 145
+    tag: VALsym
+    name: 1019
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 1020
+  }
+  entries {
+    index: 146
+    tag: CLASSsym
+    name: 1022
+    owner: 1
+    flags: SEALED | ABSTRACT
+    info: 1023
+  }
+  entries {
+    index: 147
+    tag: VALsym
+    name: 213
+    owner: 146
+    flags: METHOD
+    info: 1035
+  }
+  entries {
+    index: 148
+    tag: VALsym
+    name: 1044
+    owner: 1
+    flags: FINAL | PRIVATE | LOCAL
+    info: 1045
+  }
+  entries {
+    index: 149
+    tag: VALsym
+    name: 1046
+    owner: 1
+    flags: IMPLICIT | METHOD
+    info: 1047
+  }
+  entries {
+    index: 150
+    tag: VALsym
+    name: 1052
+    owner: 1
+    flags: METHOD
+    info: 1053
+  }
+  entries {
+    index: 151
+    tag: CLASSsym
+    name: 1061
+    owner: 1
+    flags: SEALED | ABSTRACT
+    info: 1062
+  }
+  entries {
+    index: 152
+    tag: VALsym
+    name: 213
+    owner: 151
+    flags: METHOD
+    info: 1069
+  }
+  entries {
+    index: 153
+    tag: VALsym
+    name: 1077
+    owner: 1
+    flags: FINAL | PRIVATE | LOCAL
+    info: 1078
+  }
+  entries {
+    index: 154
+    tag: MODULEsym
+    name: 1079
+    owner: 1
+    flags: MODULE
+    info: 1080
+  }
+  entries {
+    index: 155
+    tag: CLASSsym
+    name: 1061
+    owner: 1
+    flags: MODULE
+    info: 1081
+  }
+  entries {
+    index: 156
+    tag: VALsym
+    name: 213
+    owner: 155
+    flags: METHOD
+    info: 1082
+  }
+  entries {
+    index: 157
+    tag: VALsym
+    name: 1083
+    owner: 155
+    flags: IMPLICIT | METHOD
+    info: 1084
+  }
+  entries {
+    index: 158
+    tag: VALsym
+    name: 1089
+    owner: 155
+    flags: PRIVATE | METHOD | SYNTHETIC
+    info: 1090
+  }
+  entries {
+    index: 159
+    tag: CLASSsym
+    name: 1091
+    owner: 1
+    flags: 
+    info: 1092
+  }
+  entries {
+    index: 160
+    tag: VALsym
+    name: 213
+    owner: 159
+    flags: METHOD
+    info: 1093
+  }
+  entries {
+    index: 161
+    tag: MODULEsym
+    name: 1095
+    owner: 1
+    flags: MODULE
+    info: 1096
+  }
+  entries {
+    index: 162
+    tag: CLASSsym
+    name: 1091
+    owner: 1
+    flags: MODULE
+    info: 1097
+  }
+  entries {
+    index: 163
+    tag: VALsym
+    name: 213
+    owner: 162
+    flags: METHOD
+    info: 1098
+  }
+  entries {
+    index: 164
+    tag: VALsym
+    name: 1099
+    owner: 162
+    flags: IMPLICIT | METHOD
+    info: 1100
+  }
+  entries {
+    index: 165
+    tag: MODULEsym
+    name: 699
+    owner: 1
+    flags: MODULE | SYNTHETIC
+    info: 1101
+  }
+  entries {
+    index: 166
+    tag: CLASSsym
+    name: 675
+    owner: 1
+    flags: MODULE | SYNTHETIC
+    info: 1102
+  }
+  entries {
+    index: 167
+    tag: VALsym
+    name: 213
+    owner: 166
+    flags: METHOD
+    info: 1103
+  }
+  entries {
+    index: 168
+    tag: VALsym
+    name: 1104
+    owner: 166
+    flags: FINAL | METHOD
+    info: 1105
+  }
+  entries {
+    index: 169
+    tag: VALsym
+    name: 1109
+    owner: 166
+    flags: FINAL | METHOD | SYNTHETIC
+    info: 1110
+  }
+  entries {
+    index: 170
+    tag: VALsym
+    name: 1112
+    owner: 166
+    flags: FINAL | METHOD | SYNTHETIC
+    info: 1113
+  }
+  entries {
+    index: 171
+    tag: MODULEsym
+    name: 668
+    owner: 1
+    flags: MODULE | SYNTHETIC
+    info: 1117
+  }
+  entries {
+    index: 172
+    tag: CLASSsym
+    name: 651
+    owner: 1
+    flags: MODULE | SYNTHETIC
+    info: 1118
+  }
+  entries {
+    index: 173
+    tag: VALsym
+    name: 213
+    owner: 172
+    flags: METHOD
+    info: 1119
+  }
+  entries {
+    index: 174
+    tag: VALsym
+    name: 1120
+    owner: 172
+    flags: FINAL | METHOD
+    info: 1121
+  }
+  entries {
+    index: 175
+    tag: VALsym
+    name: 1109
+    owner: 172
+    flags: FINAL | METHOD | SYNTHETIC
+    info: 1129
+  }
+  entries {
+    index: 176
+    tag: VALsym
+    name: 1112
+    owner: 172
+    flags: FINAL | METHOD | SYNTHETIC
+    info: 1135
+  }
+  entries {
+    index: 177
+    tag: MODULEsym
+    name: 644
+    owner: 1
+    flags: MODULE | SYNTHETIC
+    info: 1143
+  }
+  entries {
+    index: 178
+    tag: CLASSsym
+    name: 625
+    owner: 1
+    flags: MODULE | SYNTHETIC
+    info: 1144
+  }
+  entries {
+    index: 179
+    tag: VALsym
+    name: 213
+    owner: 178
+    flags: METHOD
+    info: 1145
+  }
+  entries {
+    index: 180
+    tag: VALsym
+    name: 1146
+    owner: 178
+    flags: FINAL | METHOD
+    info: 1147
+  }
+  entries {
+    index: 181
+    tag: VALsym
+    name: 1109
+    owner: 178
+    flags: FINAL | METHOD | SYNTHETIC
+    info: 1156
+  }
+  entries {
+    index: 182
+    tag: VALsym
+    name: 1112
+    owner: 178
+    flags: FINAL | METHOD | SYNTHETIC
+    info: 1162
+  }
+  entries {
+    index: 183
+    tag: MODULEsym
+    name: 618
+    owner: 1
+    flags: MODULE | SYNTHETIC
+    info: 1170
+  }
+  entries {
+    index: 184
+    tag: CLASSsym
+    name: 591
+    owner: 1
+    flags: MODULE | SYNTHETIC
+    info: 1171
+  }
+  entries {
+    index: 185
+    tag: VALsym
+    name: 213
+    owner: 184
+    flags: METHOD
+    info: 1172
+  }
+  entries {
+    index: 186
+    tag: VALsym
+    name: 1173
+    owner: 184
+    flags: FINAL | METHOD
+    info: 1174
+  }
+  entries {
+    index: 187
+    tag: VALsym
+    name: 1182
+    owner: 184
+    flags: FINAL | METHOD
+    info: 1183
+  }
+  entries {
+    index: 188
+    tag: VALsym
+    name: 1192
+    owner: 184
+    flags: FINAL | METHOD
+    info: 1193
+  }
+  entries {
+    index: 189
+    tag: VALsym
+    name: 1202
+    owner: 184
+    flags: FINAL | METHOD
+    info: 1203
+  }
+  entries {
+    index: 190
+    tag: VALsym
+    name: 1109
+    owner: 184
+    flags: FINAL | METHOD | SYNTHETIC
+    info: 1213
+  }
+  entries {
+    index: 191
+    tag: VALsym
+    name: 1112
+    owner: 184
+    flags: FINAL | METHOD | SYNTHETIC
+    info: 1219
+  }
+  entries {
+    index: 192
+    tag: MODULEsym
+    name: 584
+    owner: 1
+    flags: MODULE | SYNTHETIC
+    info: 1227
+  }
+  entries {
+    index: 193
+    tag: CLASSsym
+    name: 545
+    owner: 1
+    flags: MODULE | SYNTHETIC
+    info: 1228
+  }
+  entries {
+    index: 194
+    tag: VALsym
+    name: 213
+    owner: 193
+    flags: METHOD
+    info: 1229
+  }
+  entries {
+    index: 195
+    tag: VALsym
+    name: 1230
+    owner: 193
+    flags: FINAL | METHOD
+    info: 1231
+  }
+  entries {
+    index: 196
+    tag: VALsym
+    name: 1243
+    owner: 193
+    flags: FINAL | METHOD
+    info: 1244
+  }
+  entries {
+    index: 197
+    tag: VALsym
+    name: 1109
+    owner: 193
+    flags: FINAL | METHOD | SYNTHETIC
+    info: 1255
+  }
+  entries {
+    index: 198
+    tag: VALsym
+    name: 1112
+    owner: 193
+    flags: FINAL | METHOD | SYNTHETIC
+    info: 1261
+  }
+  entries {
+    index: 199
+    tag: TERMname
+    value: "Predef"
+  }
+  entries {
+    index: 200
+    tag: EXTMODCLASSref
+    name: 201
+  }
+  entries {
+    index: 201
+    tag: TERMname
+    value: "scala"
+  }
+  entries {
+    index: 202
+    tag: NONEsym
+  }
+  entries {
+    index: 203
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 1
+  }
+  entries {
+    index: 204
+    tag: THIStpe
+    sym: 200
+  }
+  entries {
+    index: 205
+    tag: TYPEname
+    value: "Predef"
+  }
+  entries {
+    index: 206
+    tag: CLASSINFOtpe
+    sym: 1
+    parents: 207
+    parents: 210
+  }
+  entries {
+    index: 207
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 208
+  }
+  entries {
+    index: 208
+    tag: EXTref
+    name: 209
+    owner: 200
+  }
+  entries {
+    index: 209
+    tag: TYPEname
+    value: "LowPriorityImplicits"
+  }
+  entries {
+    index: 210
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 211
+  }
+  entries {
+    index: 211
+    tag: EXTref
+    name: 212
+    owner: 200
+  }
+  entries {
+    index: 212
+    tag: TYPEname
+    value: "DeprecatedPredef"
+  }
+  entries {
+    index: 213
+    tag: TERMname
+    value: "<init>"
+  }
+  entries {
+    index: 214
+    tag: METHODtpe
+    ret: 203
+  }
+  entries {
+    index: 215
+    tag: TERMname
+    value: "classOf"
+  }
+  entries {
+    index: 216
+    tag: POLYtpe
+    tpe: 217
+    params: 241
+  }
+  entries {
+    index: 217
+    tag: POLYtpe
+    tpe: 218
+  }
+  entries {
+    index: 218
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 5
+    targs: 240
+  }
+  entries {
+    index: 219
+    tag: THIStpe
+    sym: 1
+  }
+  entries {
+    index: 220
+    tag: TYPEname
+    value: "Class"
+  }
+  entries {
+    index: 221
+    tag: POLYtpe
+    tpe: 222
+    params: 231
+  }
+  entries {
+    index: 222
+    tag: TYPEREFtpe
+    pre: 223
+    sym: 228
+    targs: 229
+  }
+  entries {
+    index: 223
+    tag: THIStpe
+    sym: 224
+  }
+  entries {
+    index: 224
+    tag: EXTMODCLASSref
+    name: 225
+    owner: 226
+  }
+  entries {
+    index: 225
+    tag: TERMname
+    value: "lang"
+  }
+  entries {
+    index: 226
+    tag: EXTMODCLASSref
+    name: 227
+  }
+  entries {
+    index: 227
+    tag: TERMname
+    value: "java"
+  }
+  entries {
+    index: 228
+    tag: EXTref
+    name: 220
+    owner: 224
+  }
+  entries {
+    index: 229
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 231
+  }
+  entries {
+    index: 230
+    tag: NOPREFIXtpe
+  }
+  entries {
+    index: 231
+    tag: TYPEsym
+    name: 232
+    owner: 5
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 232
+    tag: TYPEname
+    value: "T"
+  }
+  entries {
+    index: 233
+    tag: TYPEBOUNDStpe
+    lo: 234
+    hi: 237
+  }
+  entries {
+    index: 234
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 235
+  }
+  entries {
+    index: 235
+    tag: EXTref
+    name: 236
+    owner: 200
+  }
+  entries {
+    index: 236
+    tag: TYPEname
+    value: "Nothing"
+  }
+  entries {
+    index: 237
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 238
+  }
+  entries {
+    index: 238
+    tag: EXTref
+    name: 239
+    owner: 200
+  }
+  entries {
+    index: 239
+    tag: TYPEname
+    value: "Any"
+  }
+  entries {
+    index: 240
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 241
+  }
+  entries {
+    index: 241
+    tag: TYPEsym
+    name: 232
+    owner: 3
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 242
+    tag: TYPEname
+    value: "String"
+  }
+  entries {
+    index: 243
+    tag: TYPEREFtpe
+    pre: 223
+    sym: 244
+  }
+  entries {
+    index: 244
+    tag: EXTref
+    name: 242
+    owner: 224
+  }
+  entries {
+    index: 245
+    tag: TYPEname
+    value: "Function"
+  }
+  entries {
+    index: 246
+    tag: POLYtpe
+    tpe: 247
+    params: 251
+    params: 254
+  }
+  entries {
+    index: 247
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 248
+    targs: 250
+    targs: 253
+  }
+  entries {
+    index: 248
+    tag: EXTref
+    name: 249
+    owner: 200
+  }
+  entries {
+    index: 249
+    tag: TYPEname
+    value: "Function1"
+  }
+  entries {
+    index: 250
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 251
+  }
+  entries {
+    index: 251
+    tag: TYPEsym
+    name: 252
+    owner: 6
+    flags: DEFERRED | PARAM | CONTRAVARIANT
+    info: 233
+  }
+  entries {
+    index: 252
+    tag: TYPEname
+    value: "A"
+  }
+  entries {
+    index: 253
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 254
+  }
+  entries {
+    index: 254
+    tag: TYPEsym
+    name: 255
+    owner: 6
+    flags: DEFERRED | PARAM | COVARIANT
+    info: 233
+  }
+  entries {
+    index: 255
+    tag: TYPEname
+    value: "B"
+  }
+  entries {
+    index: 256
+    tag: TYPEname
+    value: "Map"
+  }
+  entries {
+    index: 257
+    tag: POLYtpe
+    tpe: 258
+    params: 266
+    params: 268
+  }
+  entries {
+    index: 258
+    tag: TYPEREFtpe
+    pre: 259
+    sym: 264
+    targs: 265
+    targs: 267
+  }
+  entries {
+    index: 259
+    tag: THIStpe
+    sym: 260
+  }
+  entries {
+    index: 260
+    tag: EXTMODCLASSref
+    name: 261
+    owner: 262
+  }
+  entries {
+    index: 261
+    tag: TERMname
+    value: "immutable"
+  }
+  entries {
+    index: 262
+    tag: EXTMODCLASSref
+    name: 263
+    owner: 200
+  }
+  entries {
+    index: 263
+    tag: TERMname
+    value: "collection"
+  }
+  entries {
+    index: 264
+    tag: EXTref
+    name: 256
+    owner: 260
+  }
+  entries {
+    index: 265
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 266
+  }
+  entries {
+    index: 266
+    tag: TYPEsym
+    name: 252
+    owner: 7
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 267
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 268
+  }
+  entries {
+    index: 268
+    tag: TYPEsym
+    name: 255
+    owner: 7
+    flags: DEFERRED | PARAM | COVARIANT
+    info: 233
+  }
+  entries {
+    index: 269
+    tag: TYPEname
+    value: "Set"
+  }
+  entries {
+    index: 270
+    tag: POLYtpe
+    tpe: 271
+    params: 274
+  }
+  entries {
+    index: 271
+    tag: TYPEREFtpe
+    pre: 259
+    sym: 272
+    targs: 273
+  }
+  entries {
+    index: 272
+    tag: EXTref
+    name: 269
+    owner: 260
+  }
+  entries {
+    index: 273
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 274
+  }
+  entries {
+    index: 274
+    tag: TYPEsym
+    name: 252
+    owner: 8
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 275
+    tag: TERMname
+    value: "Map"
+  }
+  entries {
+    index: 276
+    tag: POLYtpe
+    tpe: 277
+  }
+  entries {
+    index: 277
+    tag: SINGLEtpe
+    pre: 278
+    sym: 281
+  }
+  entries {
+    index: 278
+    tag: SINGLEtpe
+    pre: 279
+    sym: 280
+  }
+  entries {
+    index: 279
+    tag: THIStpe
+    sym: 262
+  }
+  entries {
+    index: 280
+    tag: EXTref
+    name: 261
+    owner: 262
+  }
+  entries {
+    index: 281
+    tag: EXTref
+    name: 275
+    owner: 260
+  }
+  entries {
+    index: 282
+    tag: TERMname
+    value: "Map "
+  }
+  entries {
+    index: 283
+    tag: TERMname
+    value: "Set"
+  }
+  entries {
+    index: 284
+    tag: POLYtpe
+    tpe: 285
+  }
+  entries {
+    index: 285
+    tag: SINGLEtpe
+    pre: 278
+    sym: 286
+  }
+  entries {
+    index: 286
+    tag: EXTref
+    name: 283
+    owner: 260
+  }
+  entries {
+    index: 287
+    tag: TERMname
+    value: "Set "
+  }
+  entries {
+    index: 288
+    tag: TYPEname
+    value: "ClassManifest"
+  }
+  entries {
+    index: 289
+    tag: POLYtpe
+    tpe: 290
+    params: 306
+  }
+  entries {
+    index: 290
+    tag: TYPEREFtpe
+    pre: 291
+    sym: 303
+    targs: 305
+  }
+  entries {
+    index: 291
+    tag: SINGLEtpe
+    pre: 292
+    sym: 300
+  }
+  entries {
+    index: 292
+    tag: SINGLEtpe
+    pre: 293
+    sym: 298
+  }
+  entries {
+    index: 293
+    tag: SINGLEtpe
+    pre: 294
+    sym: 297
+  }
+  entries {
+    index: 294
+    tag: THIStpe
+    sym: 295
+  }
+  entries {
+    index: 295
+    tag: EXTMODCLASSref
+    name: 296
+    owner: 202
+  }
+  entries {
+    index: 296
+    tag: TERMname
+    value: "<root>"
+  }
+  entries {
+    index: 297
+    tag: EXTref
+    name: 201
+  }
+  entries {
+    index: 298
+    tag: EXTref
+    name: 299
+    owner: 200
+  }
+  entries {
+    index: 299
+    tag: TERMname
+    value: "reflect"
+  }
+  entries {
+    index: 300
+    tag: EXTref
+    name: 301
+    owner: 302
+  }
+  entries {
+    index: 301
+    tag: TERMname
+    value: "package"
+  }
+  entries {
+    index: 302
+    tag: EXTMODCLASSref
+    name: 299
+    owner: 200
+  }
+  entries {
+    index: 303
+    tag: EXTref
+    name: 288
+    owner: 304
+  }
+  entries {
+    index: 304
+    tag: EXTMODCLASSref
+    name: 301
+    owner: 302
+  }
+  entries {
+    index: 305
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 306
+  }
+  entries {
+    index: 306
+    tag: TYPEsym
+    name: 232
+    owner: 13
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 307
+    tag: SYMANNOT
+    sym: 13
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 311
+    }
+    args {
+      tag: ANNOTARG
+      value: 313
+    }
+  }
+  entries {
+    index: 308
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 309
+  }
+  entries {
+    index: 309
+    tag: EXTref
+    name: 310
+    owner: 200
+  }
+  entries {
+    index: 310
+    tag: TYPEname
+    value: "deprecated"
+  }
+  entries {
+    index: 311
+    tag: LITERALstring
+    name: 312
+  }
+  entries {
+    index: 312
+    tag: TERMname
+    value: "use `scala.reflect.ClassTag` instead"
+  }
+  entries {
+    index: 313
+    tag: LITERALstring
+    name: 314
+  }
+  entries {
+    index: 314
+    tag: TERMname
+    value: "2.10.0"
+  }
+  entries {
+    index: 315
+    tag: SYMANNOT
+    sym: 13
+    tpe: 316
+    args {
+      tag: ANNOTARG
+      value: 322
+    }
+  }
+  entries {
+    index: 316
+    tag: TYPEREFtpe
+    pre: 317
+    sym: 320
+  }
+  entries {
+    index: 317
+    tag: THIStpe
+    sym: 318
+  }
+  entries {
+    index: 318
+    tag: EXTMODCLASSref
+    name: 319
+    owner: 200
+  }
+  entries {
+    index: 319
+    tag: TERMname
+    value: "annotation"
+  }
+  entries {
+    index: 320
+    tag: EXTref
+    name: 321
+    owner: 318
+  }
+  entries {
+    index: 321
+    tag: TYPEname
+    value: "implicitNotFound"
+  }
+  entries {
+    index: 322
+    tag: LITERALstring
+    name: 323
+  }
+  entries {
+    index: 323
+    tag: TERMname
+    value: "No ClassManifest available for ${T}."
+  }
+  entries {
+    index: 324
+    tag: TYPEname
+    value: "OptManifest"
+  }
+  entries {
+    index: 325
+    tag: POLYtpe
+    tpe: 326
+    params: 330
+  }
+  entries {
+    index: 326
+    tag: TYPEREFtpe
+    pre: 327
+    sym: 328
+    targs: 329
+  }
+  entries {
+    index: 327
+    tag: THIStpe
+    sym: 302
+  }
+  entries {
+    index: 328
+    tag: EXTref
+    name: 324
+    owner: 302
+  }
+  entries {
+    index: 329
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 330
+  }
+  entries {
+    index: 330
+    tag: TYPEsym
+    name: 232
+    owner: 14
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 331
+    tag: TYPEname
+    value: "Manifest"
+  }
+  entries {
+    index: 332
+    tag: POLYtpe
+    tpe: 333
+    params: 336
+  }
+  entries {
+    index: 333
+    tag: TYPEREFtpe
+    pre: 327
+    sym: 334
+    targs: 335
+  }
+  entries {
+    index: 334
+    tag: EXTref
+    name: 331
+    owner: 302
+  }
+  entries {
+    index: 335
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 336
+  }
+  entries {
+    index: 336
+    tag: TYPEsym
+    name: 232
+    owner: 15
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 337
+    tag: SYMANNOT
+    sym: 15
+    tpe: 316
+    args {
+      tag: ANNOTARG
+      value: 338
+    }
+  }
+  entries {
+    index: 338
+    tag: LITERALstring
+    name: 339
+  }
+  entries {
+    index: 339
+    tag: TERMname
+    value: "No Manifest available for ${T}."
+  }
+  entries {
+    index: 340
+    tag: TERMname
+    value: "ClassManifest"
+  }
+  entries {
+    index: 341
+    tag: POLYtpe
+    tpe: 342
+  }
+  entries {
+    index: 342
+    tag: SINGLEtpe
+    pre: 327
+    sym: 343
+  }
+  entries {
+    index: 343
+    tag: EXTref
+    name: 344
+    owner: 302
+  }
+  entries {
+    index: 344
+    tag: TERMname
+    value: "ClassManifestFactory"
+  }
+  entries {
+    index: 345
+    tag: SYMANNOT
+    sym: 16
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 311
+    }
+    args {
+      tag: ANNOTARG
+      value: 313
+    }
+  }
+  entries {
+    index: 346
+    tag: TERMname
+    value: "ClassManifest "
+  }
+  entries {
+    index: 347
+    tag: SYMANNOT
+    sym: 17
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 311
+    }
+    args {
+      tag: ANNOTARG
+      value: 313
+    }
+  }
+  entries {
+    index: 348
+    tag: TERMname
+    value: "Manifest"
+  }
+  entries {
+    index: 349
+    tag: POLYtpe
+    tpe: 350
+  }
+  entries {
+    index: 350
+    tag: SINGLEtpe
+    pre: 327
+    sym: 351
+  }
+  entries {
+    index: 351
+    tag: EXTref
+    name: 352
+    owner: 302
+  }
+  entries {
+    index: 352
+    tag: TERMname
+    value: "ManifestFactory"
+  }
+  entries {
+    index: 353
+    tag: TERMname
+    value: "Manifest "
+  }
+  entries {
+    index: 354
+    tag: TERMname
+    value: "NoManifest"
+  }
+  entries {
+    index: 355
+    tag: POLYtpe
+    tpe: 356
+  }
+  entries {
+    index: 356
+    tag: SINGLEtpe
+    pre: 292
+    sym: 357
+  }
+  entries {
+    index: 357
+    tag: EXTref
+    name: 354
+    owner: 302
+  }
+  entries {
+    index: 358
+    tag: TERMname
+    value: "NoManifest "
+  }
+  entries {
+    index: 359
+    tag: TERMname
+    value: "manifest"
+  }
+  entries {
+    index: 360
+    tag: POLYtpe
+    tpe: 361
+    params: 364
+  }
+  entries {
+    index: 361
+    tag: METHODtpe
+    ret: 362
+    params: 365
+  }
+  entries {
+    index: 362
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 15
+    targs: 363
+  }
+  entries {
+    index: 363
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 364
+  }
+  entries {
+    index: 364
+    tag: TYPEsym
+    name: 232
+    owner: 22
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 365
+    tag: VALsym
+    name: 366
+    owner: 22
+    flags: IMPLICIT | PARAM
+    info: 362
+  }
+  entries {
+    index: 366
+    tag: TERMname
+    value: "m"
+  }
+  entries {
+    index: 367
+    tag: TERMname
+    value: "classManifest"
+  }
+  entries {
+    index: 368
+    tag: POLYtpe
+    tpe: 369
+    params: 372
+  }
+  entries {
+    index: 369
+    tag: METHODtpe
+    ret: 370
+    params: 373
+  }
+  entries {
+    index: 370
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 13
+    targs: 371
+  }
+  entries {
+    index: 371
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 372
+  }
+  entries {
+    index: 372
+    tag: TYPEsym
+    name: 232
+    owner: 23
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 373
+    tag: VALsym
+    name: 366
+    owner: 23
+    flags: IMPLICIT | PARAM
+    info: 370
+  }
+  entries {
+    index: 374
+    tag: SYMANNOT
+    sym: 23
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 375
+    }
+    args {
+      tag: ANNOTARG
+      value: 313
+    }
+  }
+  entries {
+    index: 375
+    tag: LITERALstring
+    name: 376
+  }
+  entries {
+    index: 376
+    tag: TERMname
+    value: "use scala.reflect.classTag[T] instead"
+  }
+  entries {
+    index: 377
+    tag: TERMname
+    value: "optManifest"
+  }
+  entries {
+    index: 378
+    tag: POLYtpe
+    tpe: 379
+    params: 382
+  }
+  entries {
+    index: 379
+    tag: METHODtpe
+    ret: 380
+    params: 383
+  }
+  entries {
+    index: 380
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 14
+    targs: 381
+  }
+  entries {
+    index: 381
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 382
+  }
+  entries {
+    index: 382
+    tag: TYPEsym
+    name: 232
+    owner: 24
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 383
+    tag: VALsym
+    name: 366
+    owner: 24
+    flags: IMPLICIT | PARAM
+    info: 380
+  }
+  entries {
+    index: 384
+    tag: TERMname
+    value: "identity"
+  }
+  entries {
+    index: 385
+    tag: POLYtpe
+    tpe: 386
+    params: 388
+  }
+  entries {
+    index: 386
+    tag: METHODtpe
+    ret: 387
+    params: 389
+  }
+  entries {
+    index: 387
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 388
+  }
+  entries {
+    index: 388
+    tag: TYPEsym
+    name: 252
+    owner: 25
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 389
+    tag: VALsym
+    name: 390
+    owner: 25
+    flags: PARAM
+    info: 387
+  }
+  entries {
+    index: 390
+    tag: TERMname
+    value: "x"
+  }
+  entries {
+    index: 391
+    tag: SYMANNOT
+    sym: 25
+    tpe: 392
+  }
+  entries {
+    index: 392
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 393
+  }
+  entries {
+    index: 393
+    tag: EXTref
+    name: 394
+    owner: 200
+  }
+  entries {
+    index: 394
+    tag: TYPEname
+    value: "inline"
+  }
+  entries {
+    index: 395
+    tag: TERMname
+    value: "implicitly"
+  }
+  entries {
+    index: 396
+    tag: POLYtpe
+    tpe: 397
+    params: 399
+  }
+  entries {
+    index: 397
+    tag: METHODtpe
+    ret: 398
+    params: 400
+  }
+  entries {
+    index: 398
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 399
+  }
+  entries {
+    index: 399
+    tag: TYPEsym
+    name: 232
+    owner: 26
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 400
+    tag: VALsym
+    name: 401
+    owner: 26
+    flags: IMPLICIT | PARAM
+    info: 398
+  }
+  entries {
+    index: 401
+    tag: TERMname
+    value: "e"
+  }
+  entries {
+    index: 402
+    tag: SYMANNOT
+    sym: 26
+    tpe: 392
+  }
+  entries {
+    index: 403
+    tag: TERMname
+    value: "locally"
+  }
+  entries {
+    index: 404
+    tag: POLYtpe
+    tpe: 405
+    params: 407
+  }
+  entries {
+    index: 405
+    tag: METHODtpe
+    ret: 406
+    params: 408
+  }
+  entries {
+    index: 406
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 407
+  }
+  entries {
+    index: 407
+    tag: TYPEsym
+    name: 232
+    owner: 27
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 408
+    tag: VALsym
+    name: 390
+    owner: 27
+    flags: PARAM
+    info: 406
+  }
+  entries {
+    index: 409
+    tag: SYMANNOT
+    sym: 27
+    tpe: 392
+  }
+  entries {
+    index: 410
+    tag: TERMname
+    value: "assert"
+  }
+  entries {
+    index: 411
+    tag: METHODtpe
+    ret: 412
+    params: 415
+  }
+  entries {
+    index: 412
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 413
+  }
+  entries {
+    index: 413
+    tag: EXTref
+    name: 414
+    owner: 200
+  }
+  entries {
+    index: 414
+    tag: TYPEname
+    value: "Unit"
+  }
+  entries {
+    index: 415
+    tag: VALsym
+    name: 416
+    owner: 28
+    flags: PARAM
+    info: 417
+  }
+  entries {
+    index: 416
+    tag: TERMname
+    value: "assertion"
+  }
+  entries {
+    index: 417
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 418
+  }
+  entries {
+    index: 418
+    tag: EXTref
+    name: 419
+    owner: 200
+  }
+  entries {
+    index: 419
+    tag: TYPEname
+    value: "Boolean"
+  }
+  entries {
+    index: 420
+    tag: SYMANNOT
+    sym: 28
+    tpe: 421
+    args {
+      tag: ANNOTARG
+      value: 424
+    }
+  }
+  entries {
+    index: 421
+    tag: TYPEREFtpe
+    pre: 317
+    sym: 422
+  }
+  entries {
+    index: 422
+    tag: EXTref
+    name: 423
+    owner: 318
+  }
+  entries {
+    index: 423
+    tag: TYPEname
+    value: "elidable"
+  }
+  entries {
+    index: 424
+    tag: LITERALint
+    value: 2000
+  }
+  entries {
+    index: 425
+    tag: METHODtpe
+    ret: 412
+    params: 426
+    params: 427
+  }
+  entries {
+    index: 426
+    tag: VALsym
+    name: 416
+    owner: 29
+    flags: PARAM
+    info: 417
+  }
+  entries {
+    index: 427
+    tag: VALsym
+    name: 428
+    owner: 29
+    flags: PARAM | BYNAMEPARAM
+    info: 429
+  }
+  entries {
+    index: 428
+    tag: TERMname
+    value: "message"
+  }
+  entries {
+    index: 429
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 430
+    targs: 237
+  }
+  entries {
+    index: 430
+    tag: EXTref
+    name: 431
+    owner: 200
+  }
+  entries {
+    index: 431
+    tag: TYPEname
+    value: "<byname>"
+  }
+  entries {
+    index: 432
+    tag: SYMANNOT
+    sym: 29
+    tpe: 392
+  }
+  entries {
+    index: 433
+    tag: SYMANNOT
+    sym: 29
+    tpe: 421
+    args {
+      tag: ANNOTARG
+      value: 424
+    }
+  }
+  entries {
+    index: 434
+    tag: TERMname
+    value: "assume"
+  }
+  entries {
+    index: 435
+    tag: METHODtpe
+    ret: 412
+    params: 436
+  }
+  entries {
+    index: 436
+    tag: VALsym
+    name: 437
+    owner: 30
+    flags: PARAM
+    info: 417
+  }
+  entries {
+    index: 437
+    tag: TERMname
+    value: "assumption"
+  }
+  entries {
+    index: 438
+    tag: SYMANNOT
+    sym: 30
+    tpe: 421
+    args {
+      tag: ANNOTARG
+      value: 424
+    }
+  }
+  entries {
+    index: 439
+    tag: METHODtpe
+    ret: 412
+    params: 440
+    params: 441
+  }
+  entries {
+    index: 440
+    tag: VALsym
+    name: 437
+    owner: 31
+    flags: PARAM
+    info: 417
+  }
+  entries {
+    index: 441
+    tag: VALsym
+    name: 428
+    owner: 31
+    flags: PARAM | BYNAMEPARAM
+    info: 429
+  }
+  entries {
+    index: 442
+    tag: SYMANNOT
+    sym: 31
+    tpe: 392
+  }
+  entries {
+    index: 443
+    tag: SYMANNOT
+    sym: 31
+    tpe: 421
+    args {
+      tag: ANNOTARG
+      value: 424
+    }
+  }
+  entries {
+    index: 444
+    tag: TERMname
+    value: "require"
+  }
+  entries {
+    index: 445
+    tag: METHODtpe
+    ret: 412
+    params: 446
+  }
+  entries {
+    index: 446
+    tag: VALsym
+    name: 447
+    owner: 32
+    flags: PARAM
+    info: 417
+  }
+  entries {
+    index: 447
+    tag: TERMname
+    value: "requirement"
+  }
+  entries {
+    index: 448
+    tag: METHODtpe
+    ret: 412
+    params: 449
+    params: 450
+  }
+  entries {
+    index: 449
+    tag: VALsym
+    name: 447
+    owner: 33
+    flags: PARAM
+    info: 417
+  }
+  entries {
+    index: 450
+    tag: VALsym
+    name: 428
+    owner: 33
+    flags: PARAM | BYNAMEPARAM
+    info: 429
+  }
+  entries {
+    index: 451
+    tag: SYMANNOT
+    sym: 33
+    tpe: 392
+  }
+  entries {
+    index: 452
+    tag: TERMname
+    value: "$qmark$qmark$qmark"
+  }
+  entries {
+    index: 453
+    tag: POLYtpe
+    tpe: 234
+  }
+  entries {
+    index: 454
+    tag: TYPEname
+    value: "Pair"
+  }
+  entries {
+    index: 455
+    tag: POLYtpe
+    tpe: 456
+    params: 460
+    params: 462
+  }
+  entries {
+    index: 456
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 457
+    targs: 459
+    targs: 461
+  }
+  entries {
+    index: 457
+    tag: EXTref
+    name: 458
+    owner: 200
+  }
+  entries {
+    index: 458
+    tag: TYPEname
+    value: "Tuple2"
+  }
+  entries {
+    index: 459
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 460
+  }
+  entries {
+    index: 460
+    tag: TYPEsym
+    name: 252
+    owner: 35
+    flags: DEFERRED | PARAM | COVARIANT
+    info: 233
+  }
+  entries {
+    index: 461
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 462
+  }
+  entries {
+    index: 462
+    tag: TYPEsym
+    name: 255
+    owner: 35
+    flags: DEFERRED | PARAM | COVARIANT
+    info: 233
+  }
+  entries {
+    index: 463
+    tag: SYMANNOT
+    sym: 35
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 464
+    }
+    args {
+      tag: ANNOTARG
+      value: 466
+    }
+  }
+  entries {
+    index: 464
+    tag: LITERALstring
+    name: 465
+  }
+  entries {
+    index: 465
+    tag: TERMname
+    value: "use built-in tuple syntax or Tuple2 instead"
+  }
+  entries {
+    index: 466
+    tag: LITERALstring
+    name: 467
+  }
+  entries {
+    index: 467
+    tag: TERMname
+    value: "2.11.0"
+  }
+  entries {
+    index: 468
+    tag: TERMname
+    value: "Pair"
+  }
+  entries {
+    index: 469
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 37
+  }
+  entries {
+    index: 470
+    tag: CLASSINFOtpe
+    sym: 37
+    parents: 471
+  }
+  entries {
+    index: 471
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 472
+  }
+  entries {
+    index: 472
+    tag: EXTref
+    name: 473
+    owner: 200
+  }
+  entries {
+    index: 473
+    tag: TYPEname
+    value: "AnyRef"
+  }
+  entries {
+    index: 474
+    tag: METHODtpe
+    ret: 469
+  }
+  entries {
+    index: 475
+    tag: TERMname
+    value: "apply"
+  }
+  entries {
+    index: 476
+    tag: POLYtpe
+    tpe: 477
+    params: 480
+    params: 482
+  }
+  entries {
+    index: 477
+    tag: METHODtpe
+    ret: 478
+    params: 483
+    params: 484
+  }
+  entries {
+    index: 478
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 457
+    targs: 479
+    targs: 481
+  }
+  entries {
+    index: 479
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 480
+  }
+  entries {
+    index: 480
+    tag: TYPEsym
+    name: 252
+    owner: 39
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 481
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 482
+  }
+  entries {
+    index: 482
+    tag: TYPEsym
+    name: 255
+    owner: 39
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 483
+    tag: VALsym
+    name: 390
+    owner: 39
+    flags: PARAM
+    info: 479
+  }
+  entries {
+    index: 484
+    tag: VALsym
+    name: 485
+    owner: 39
+    flags: PARAM
+    info: 481
+  }
+  entries {
+    index: 485
+    tag: TERMname
+    value: "y"
+  }
+  entries {
+    index: 486
+    tag: TERMname
+    value: "unapply"
+  }
+  entries {
+    index: 487
+    tag: POLYtpe
+    tpe: 488
+    params: 494
+    params: 496
+  }
+  entries {
+    index: 488
+    tag: METHODtpe
+    ret: 489
+    params: 497
+  }
+  entries {
+    index: 489
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 490
+    targs: 492
+  }
+  entries {
+    index: 490
+    tag: EXTref
+    name: 491
+    owner: 200
+  }
+  entries {
+    index: 491
+    tag: TYPEname
+    value: "Option"
+  }
+  entries {
+    index: 492
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 457
+    targs: 493
+    targs: 495
+  }
+  entries {
+    index: 493
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 494
+  }
+  entries {
+    index: 494
+    tag: TYPEsym
+    name: 252
+    owner: 40
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 495
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 496
+  }
+  entries {
+    index: 496
+    tag: TYPEsym
+    name: 255
+    owner: 40
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 497
+    tag: VALsym
+    name: 390
+    owner: 40
+    flags: PARAM
+    info: 492
+  }
+  entries {
+    index: 498
+    tag: SYMANNOT
+    sym: 37
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 464
+    }
+    args {
+      tag: ANNOTARG
+      value: 466
+    }
+  }
+  entries {
+    index: 499
+    tag: SYMANNOT
+    sym: 36
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 464
+    }
+    args {
+      tag: ANNOTARG
+      value: 466
+    }
+  }
+  entries {
+    index: 500
+    tag: TYPEname
+    value: "Triple"
+  }
+  entries {
+    index: 501
+    tag: POLYtpe
+    tpe: 502
+    params: 506
+    params: 508
+    params: 510
+  }
+  entries {
+    index: 502
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 503
+    targs: 505
+    targs: 507
+    targs: 509
+  }
+  entries {
+    index: 503
+    tag: EXTref
+    name: 504
+    owner: 200
+  }
+  entries {
+    index: 504
+    tag: TYPEname
+    value: "Tuple3"
+  }
+  entries {
+    index: 505
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 506
+  }
+  entries {
+    index: 506
+    tag: TYPEsym
+    name: 252
+    owner: 41
+    flags: DEFERRED | PARAM | COVARIANT
+    info: 233
+  }
+  entries {
+    index: 507
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 508
+  }
+  entries {
+    index: 508
+    tag: TYPEsym
+    name: 255
+    owner: 41
+    flags: DEFERRED | PARAM | COVARIANT
+    info: 233
+  }
+  entries {
+    index: 509
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 510
+  }
+  entries {
+    index: 510
+    tag: TYPEsym
+    name: 511
+    owner: 41
+    flags: DEFERRED | PARAM | COVARIANT
+    info: 233
+  }
+  entries {
+    index: 511
+    tag: TYPEname
+    value: "C"
+  }
+  entries {
+    index: 512
+    tag: SYMANNOT
+    sym: 41
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 513
+    }
+    args {
+      tag: ANNOTARG
+      value: 466
+    }
+  }
+  entries {
+    index: 513
+    tag: LITERALstring
+    name: 514
+  }
+  entries {
+    index: 514
+    tag: TERMname
+    value: "use built-in tuple syntax or Tuple3 instead"
+  }
+  entries {
+    index: 515
+    tag: TERMname
+    value: "Triple"
+  }
+  entries {
+    index: 516
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 43
+  }
+  entries {
+    index: 517
+    tag: CLASSINFOtpe
+    sym: 43
+    parents: 471
+  }
+  entries {
+    index: 518
+    tag: METHODtpe
+    ret: 516
+  }
+  entries {
+    index: 519
+    tag: POLYtpe
+    tpe: 520
+    params: 523
+    params: 525
+    params: 527
+  }
+  entries {
+    index: 520
+    tag: METHODtpe
+    ret: 521
+    params: 528
+    params: 529
+    params: 530
+  }
+  entries {
+    index: 521
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 503
+    targs: 522
+    targs: 524
+    targs: 526
+  }
+  entries {
+    index: 522
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 523
+  }
+  entries {
+    index: 523
+    tag: TYPEsym
+    name: 252
+    owner: 45
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 524
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 525
+  }
+  entries {
+    index: 525
+    tag: TYPEsym
+    name: 255
+    owner: 45
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 526
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 527
+  }
+  entries {
+    index: 527
+    tag: TYPEsym
+    name: 511
+    owner: 45
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 528
+    tag: VALsym
+    name: 390
+    owner: 45
+    flags: PARAM
+    info: 522
+  }
+  entries {
+    index: 529
+    tag: VALsym
+    name: 485
+    owner: 45
+    flags: PARAM
+    info: 524
+  }
+  entries {
+    index: 530
+    tag: VALsym
+    name: 531
+    owner: 45
+    flags: PARAM
+    info: 526
+  }
+  entries {
+    index: 531
+    tag: TERMname
+    value: "z"
+  }
+  entries {
+    index: 532
+    tag: POLYtpe
+    tpe: 533
+    params: 537
+    params: 539
+    params: 541
+  }
+  entries {
+    index: 533
+    tag: METHODtpe
+    ret: 534
+    params: 542
+  }
+  entries {
+    index: 534
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 490
+    targs: 535
+  }
+  entries {
+    index: 535
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 503
+    targs: 536
+    targs: 538
+    targs: 540
+  }
+  entries {
+    index: 536
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 537
+  }
+  entries {
+    index: 537
+    tag: TYPEsym
+    name: 252
+    owner: 46
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 538
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 539
+  }
+  entries {
+    index: 539
+    tag: TYPEsym
+    name: 255
+    owner: 46
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 540
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 541
+  }
+  entries {
+    index: 541
+    tag: TYPEsym
+    name: 511
+    owner: 46
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 542
+    tag: VALsym
+    name: 390
+    owner: 46
+    flags: PARAM
+    info: 535
+  }
+  entries {
+    index: 543
+    tag: SYMANNOT
+    sym: 43
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 513
+    }
+    args {
+      tag: ANNOTARG
+      value: 466
+    }
+  }
+  entries {
+    index: 544
+    tag: SYMANNOT
+    sym: 42
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 513
+    }
+    args {
+      tag: ANNOTARG
+      value: 466
+    }
+  }
+  entries {
+    index: 545
+    tag: TYPEname
+    value: "ArrowAssoc"
+  }
+  entries {
+    index: 546
+    tag: POLYtpe
+    tpe: 547
+    params: 554
+  }
+  entries {
+    index: 547
+    tag: CLASSINFOtpe
+    sym: 47
+    parents: 548
+  }
+  entries {
+    index: 548
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 549
+  }
+  entries {
+    index: 549
+    tag: EXTref
+    name: 550
+    owner: 200
+  }
+  entries {
+    index: 550
+    tag: TYPEname
+    value: "AnyVal"
+  }
+  entries {
+    index: 551
+    tag: TERMname
+    value: "scala$Predef$ArrowAssoc$$self"
+  }
+  entries {
+    index: 552
+    tag: POLYtpe
+    tpe: 553
+  }
+  entries {
+    index: 553
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 554
+  }
+  entries {
+    index: 554
+    tag: TYPEsym
+    name: 252
+    owner: 47
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 555
+    tag: TERMname
+    value: "scala$Predef$ArrowAssoc$$self "
+  }
+  entries {
+    index: 556
+    tag: METHODtpe
+    ret: 557
+    params: 558
+  }
+  entries {
+    index: 557
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 47
+    targs: 553
+  }
+  entries {
+    index: 558
+    tag: VALsym
+    name: 559
+    owner: 50
+    flags: PARAM
+    info: 553
+  }
+  entries {
+    index: 559
+    tag: TERMname
+    value: "self"
+  }
+  entries {
+    index: 560
+    tag: TERMname
+    value: "$minus$greater"
+  }
+  entries {
+    index: 561
+    tag: POLYtpe
+    tpe: 562
+    params: 565
+  }
+  entries {
+    index: 562
+    tag: METHODtpe
+    ret: 563
+    params: 566
+  }
+  entries {
+    index: 563
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 457
+    targs: 553
+    targs: 564
+  }
+  entries {
+    index: 564
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 565
+  }
+  entries {
+    index: 565
+    tag: TYPEsym
+    name: 255
+    owner: 51
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 566
+    tag: VALsym
+    name: 485
+    owner: 51
+    flags: PARAM
+    info: 564
+  }
+  entries {
+    index: 567
+    tag: SYMANNOT
+    sym: 51
+    tpe: 392
+  }
+  entries {
+    index: 568
+    tag: TERMname
+    value: "$u2192"
+  }
+  entries {
+    index: 569
+    tag: POLYtpe
+    tpe: 570
+    params: 573
+  }
+  entries {
+    index: 570
+    tag: METHODtpe
+    ret: 571
+    params: 574
+  }
+  entries {
+    index: 571
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 457
+    targs: 553
+    targs: 572
+  }
+  entries {
+    index: 572
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 573
+  }
+  entries {
+    index: 573
+    tag: TYPEsym
+    name: 255
+    owner: 52
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 574
+    tag: VALsym
+    name: 485
+    owner: 52
+    flags: PARAM
+    info: 572
+  }
+  entries {
+    index: 575
+    tag: TERMname
+    value: "hashCode"
+  }
+  entries {
+    index: 576
+    tag: METHODtpe
+    ret: 577
+  }
+  entries {
+    index: 577
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 578
+  }
+  entries {
+    index: 578
+    tag: EXTref
+    name: 579
+    owner: 200
+  }
+  entries {
+    index: 579
+    tag: TYPEname
+    value: "Int"
+  }
+  entries {
+    index: 580
+    tag: TERMname
+    value: "equals"
+  }
+  entries {
+    index: 581
+    tag: METHODtpe
+    ret: 417
+    params: 582
+  }
+  entries {
+    index: 582
+    tag: VALsym
+    name: 583
+    owner: 54
+    flags: PARAM | SYNTHETIC
+    info: 237
+  }
+  entries {
+    index: 583
+    tag: TERMname
+    value: "x$1"
+  }
+  entries {
+    index: 584
+    tag: TERMname
+    value: "ArrowAssoc"
+  }
+  entries {
+    index: 585
+    tag: POLYtpe
+    tpe: 586
+    params: 589
+  }
+  entries {
+    index: 586
+    tag: METHODtpe
+    ret: 587
+    params: 590
+  }
+  entries {
+    index: 587
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 47
+    targs: 588
+  }
+  entries {
+    index: 588
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 589
+  }
+  entries {
+    index: 589
+    tag: TYPEsym
+    name: 252
+    owner: 55
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 590
+    tag: VALsym
+    name: 559
+    owner: 55
+    flags: PARAM
+    info: 588
+  }
+  entries {
+    index: 591
+    tag: TYPEname
+    value: "Ensuring"
+  }
+  entries {
+    index: 592
+    tag: POLYtpe
+    tpe: 593
+    params: 597
+  }
+  entries {
+    index: 593
+    tag: CLASSINFOtpe
+    sym: 56
+    parents: 548
+  }
+  entries {
+    index: 594
+    tag: TERMname
+    value: "scala$Predef$Ensuring$$self"
+  }
+  entries {
+    index: 595
+    tag: POLYtpe
+    tpe: 596
+  }
+  entries {
+    index: 596
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 597
+  }
+  entries {
+    index: 597
+    tag: TYPEsym
+    name: 252
+    owner: 56
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 598
+    tag: TERMname
+    value: "scala$Predef$Ensuring$$self "
+  }
+  entries {
+    index: 599
+    tag: METHODtpe
+    ret: 600
+    params: 601
+  }
+  entries {
+    index: 600
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 56
+    targs: 596
+  }
+  entries {
+    index: 601
+    tag: VALsym
+    name: 559
+    owner: 59
+    flags: PARAM
+    info: 596
+  }
+  entries {
+    index: 602
+    tag: TERMname
+    value: "ensuring"
+  }
+  entries {
+    index: 603
+    tag: METHODtpe
+    ret: 596
+    params: 604
+  }
+  entries {
+    index: 604
+    tag: VALsym
+    name: 605
+    owner: 60
+    flags: PARAM
+    info: 417
+  }
+  entries {
+    index: 605
+    tag: TERMname
+    value: "cond"
+  }
+  entries {
+    index: 606
+    tag: METHODtpe
+    ret: 596
+    params: 607
+    params: 608
+  }
+  entries {
+    index: 607
+    tag: VALsym
+    name: 605
+    owner: 61
+    flags: PARAM
+    info: 417
+  }
+  entries {
+    index: 608
+    tag: VALsym
+    name: 609
+    owner: 61
+    flags: PARAM | BYNAMEPARAM
+    info: 429
+  }
+  entries {
+    index: 609
+    tag: TERMname
+    value: "msg"
+  }
+  entries {
+    index: 610
+    tag: METHODtpe
+    ret: 596
+    params: 611
+  }
+  entries {
+    index: 611
+    tag: VALsym
+    name: 605
+    owner: 62
+    flags: PARAM
+    info: 612
+  }
+  entries {
+    index: 612
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 248
+    targs: 596
+    targs: 417
+  }
+  entries {
+    index: 613
+    tag: METHODtpe
+    ret: 596
+    params: 614
+    params: 615
+  }
+  entries {
+    index: 614
+    tag: VALsym
+    name: 605
+    owner: 63
+    flags: PARAM
+    info: 612
+  }
+  entries {
+    index: 615
+    tag: VALsym
+    name: 609
+    owner: 63
+    flags: PARAM | BYNAMEPARAM
+    info: 429
+  }
+  entries {
+    index: 616
+    tag: METHODtpe
+    ret: 417
+    params: 617
+  }
+  entries {
+    index: 617
+    tag: VALsym
+    name: 583
+    owner: 65
+    flags: PARAM | SYNTHETIC
+    info: 237
+  }
+  entries {
+    index: 618
+    tag: TERMname
+    value: "Ensuring"
+  }
+  entries {
+    index: 619
+    tag: POLYtpe
+    tpe: 620
+    params: 623
+  }
+  entries {
+    index: 620
+    tag: METHODtpe
+    ret: 621
+    params: 624
+  }
+  entries {
+    index: 621
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 56
+    targs: 622
+  }
+  entries {
+    index: 622
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 623
+  }
+  entries {
+    index: 623
+    tag: TYPEsym
+    name: 252
+    owner: 66
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 624
+    tag: VALsym
+    name: 559
+    owner: 66
+    flags: PARAM
+    info: 622
+  }
+  entries {
+    index: 625
+    tag: TYPEname
+    value: "StringFormat"
+  }
+  entries {
+    index: 626
+    tag: POLYtpe
+    tpe: 627
+    params: 631
+  }
+  entries {
+    index: 627
+    tag: CLASSINFOtpe
+    sym: 67
+    parents: 548
+  }
+  entries {
+    index: 628
+    tag: TERMname
+    value: "scala$Predef$StringFormat$$self"
+  }
+  entries {
+    index: 629
+    tag: POLYtpe
+    tpe: 630
+  }
+  entries {
+    index: 630
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 631
+  }
+  entries {
+    index: 631
+    tag: TYPEsym
+    name: 252
+    owner: 67
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 632
+    tag: TERMname
+    value: "scala$Predef$StringFormat$$self "
+  }
+  entries {
+    index: 633
+    tag: METHODtpe
+    ret: 634
+    params: 635
+  }
+  entries {
+    index: 634
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 67
+    targs: 630
+  }
+  entries {
+    index: 635
+    tag: VALsym
+    name: 559
+    owner: 70
+    flags: PARAM
+    info: 630
+  }
+  entries {
+    index: 636
+    tag: TERMname
+    value: "formatted"
+  }
+  entries {
+    index: 637
+    tag: METHODtpe
+    ret: 638
+    params: 639
+  }
+  entries {
+    index: 638
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 4
+  }
+  entries {
+    index: 639
+    tag: VALsym
+    name: 640
+    owner: 71
+    flags: PARAM
+    info: 638
+  }
+  entries {
+    index: 640
+    tag: TERMname
+    value: "fmtstr"
+  }
+  entries {
+    index: 641
+    tag: SYMANNOT
+    sym: 71
+    tpe: 392
+  }
+  entries {
+    index: 642
+    tag: METHODtpe
+    ret: 417
+    params: 643
+  }
+  entries {
+    index: 643
+    tag: VALsym
+    name: 583
+    owner: 73
+    flags: PARAM | SYNTHETIC
+    info: 237
+  }
+  entries {
+    index: 644
+    tag: TERMname
+    value: "StringFormat"
+  }
+  entries {
+    index: 645
+    tag: POLYtpe
+    tpe: 646
+    params: 649
+  }
+  entries {
+    index: 646
+    tag: METHODtpe
+    ret: 647
+    params: 650
+  }
+  entries {
+    index: 647
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 67
+    targs: 648
+  }
+  entries {
+    index: 648
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 649
+  }
+  entries {
+    index: 649
+    tag: TYPEsym
+    name: 252
+    owner: 74
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 650
+    tag: VALsym
+    name: 559
+    owner: 74
+    flags: PARAM
+    info: 648
+  }
+  entries {
+    index: 651
+    tag: TYPEname
+    value: "any2stringadd"
+  }
+  entries {
+    index: 652
+    tag: POLYtpe
+    tpe: 653
+    params: 657
+  }
+  entries {
+    index: 653
+    tag: CLASSINFOtpe
+    sym: 75
+    parents: 548
+  }
+  entries {
+    index: 654
+    tag: TERMname
+    value: "scala$Predef$any2stringadd$$self"
+  }
+  entries {
+    index: 655
+    tag: POLYtpe
+    tpe: 656
+  }
+  entries {
+    index: 656
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 657
+  }
+  entries {
+    index: 657
+    tag: TYPEsym
+    name: 252
+    owner: 75
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 658
+    tag: TERMname
+    value: "scala$Predef$any2stringadd$$self "
+  }
+  entries {
+    index: 659
+    tag: METHODtpe
+    ret: 660
+    params: 661
+  }
+  entries {
+    index: 660
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 75
+    targs: 656
+  }
+  entries {
+    index: 661
+    tag: VALsym
+    name: 559
+    owner: 78
+    flags: PARAM
+    info: 656
+  }
+  entries {
+    index: 662
+    tag: TERMname
+    value: "$plus"
+  }
+  entries {
+    index: 663
+    tag: METHODtpe
+    ret: 638
+    params: 664
+  }
+  entries {
+    index: 664
+    tag: VALsym
+    name: 665
+    owner: 79
+    flags: PARAM
+    info: 638
+  }
+  entries {
+    index: 665
+    tag: TERMname
+    value: "other"
+  }
+  entries {
+    index: 666
+    tag: METHODtpe
+    ret: 417
+    params: 667
+  }
+  entries {
+    index: 667
+    tag: VALsym
+    name: 583
+    owner: 81
+    flags: PARAM | SYNTHETIC
+    info: 237
+  }
+  entries {
+    index: 668
+    tag: TERMname
+    value: "any2stringadd"
+  }
+  entries {
+    index: 669
+    tag: POLYtpe
+    tpe: 670
+    params: 673
+  }
+  entries {
+    index: 670
+    tag: METHODtpe
+    ret: 671
+    params: 674
+  }
+  entries {
+    index: 671
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 75
+    targs: 672
+  }
+  entries {
+    index: 672
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 673
+  }
+  entries {
+    index: 673
+    tag: TYPEsym
+    name: 252
+    owner: 82
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 674
+    tag: VALsym
+    name: 559
+    owner: 82
+    flags: PARAM
+    info: 672
+  }
+  entries {
+    index: 675
+    tag: TYPEname
+    value: "RichException"
+  }
+  entries {
+    index: 676
+    tag: CLASSINFOtpe
+    sym: 83
+    parents: 548
+  }
+  entries {
+    index: 677
+    tag: TERMname
+    value: "scala$Predef$RichException$$self"
+  }
+  entries {
+    index: 678
+    tag: POLYtpe
+    tpe: 679
+  }
+  entries {
+    index: 679
+    tag: TYPEREFtpe
+    pre: 680
+    sym: 682
+  }
+  entries {
+    index: 680
+    tag: SINGLEtpe
+    pre: 204
+    sym: 681
+  }
+  entries {
+    index: 681
+    tag: EXTref
+    name: 301
+    owner: 200
+  }
+  entries {
+    index: 682
+    tag: EXTref
+    name: 683
+    owner: 684
+  }
+  entries {
+    index: 683
+    tag: TYPEname
+    value: "Throwable"
+  }
+  entries {
+    index: 684
+    tag: EXTMODCLASSref
+    name: 301
+    owner: 200
+  }
+  entries {
+    index: 685
+    tag: TERMname
+    value: "scala$Predef$RichException$$self "
+  }
+  entries {
+    index: 686
+    tag: METHODtpe
+    ret: 687
+    params: 688
+  }
+  entries {
+    index: 687
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 83
+  }
+  entries {
+    index: 688
+    tag: VALsym
+    name: 559
+    owner: 86
+    flags: PARAM
+    info: 679
+  }
+  entries {
+    index: 689
+    tag: TERMname
+    value: "getStackTraceString"
+  }
+  entries {
+    index: 690
+    tag: POLYtpe
+    tpe: 691
+  }
+  entries {
+    index: 691
+    tag: TYPEREFtpe
+    pre: 692
+    sym: 4
+  }
+  entries {
+    index: 692
+    tag: SINGLEtpe
+    pre: 693
+    sym: 0
+  }
+  entries {
+    index: 693
+    tag: TYPEREFtpe
+    pre: 294
+    sym: 200
+  }
+  entries {
+    index: 694
+    tag: SYMANNOT
+    sym: 87
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 695
+    }
+    args {
+      tag: ANNOTARG
+      value: 466
+    }
+  }
+  entries {
+    index: 695
+    tag: LITERALstring
+    name: 696
+  }
+  entries {
+    index: 696
+    tag: TERMname
+    value: "use Throwable#getStackTrace"
+  }
+  entries {
+    index: 697
+    tag: METHODtpe
+    ret: 417
+    params: 698
+  }
+  entries {
+    index: 698
+    tag: VALsym
+    name: 583
+    owner: 89
+    flags: PARAM | SYNTHETIC
+    info: 237
+  }
+  entries {
+    index: 699
+    tag: TERMname
+    value: "RichException"
+  }
+  entries {
+    index: 700
+    tag: METHODtpe
+    ret: 687
+    params: 701
+  }
+  entries {
+    index: 701
+    tag: VALsym
+    name: 559
+    owner: 90
+    flags: PARAM
+    info: 679
+  }
+  entries {
+    index: 702
+    tag: TYPEname
+    value: "SeqCharSequence"
+  }
+  entries {
+    index: 703
+    tag: CLASSINFOtpe
+    sym: 91
+    parents: 704
+    parents: 707
+  }
+  entries {
+    index: 704
+    tag: TYPEREFtpe
+    pre: 223
+    sym: 705
+  }
+  entries {
+    index: 705
+    tag: EXTref
+    name: 706
+    owner: 224
+  }
+  entries {
+    index: 706
+    tag: TYPEname
+    value: "Object"
+  }
+  entries {
+    index: 707
+    tag: TYPEREFtpe
+    pre: 223
+    sym: 708
+  }
+  entries {
+    index: 708
+    tag: EXTref
+    name: 709
+    owner: 224
+  }
+  entries {
+    index: 709
+    tag: TYPEname
+    value: "CharSequence"
+  }
+  entries {
+    index: 710
+    tag: TERMname
+    value: "__sequenceOfChars"
+  }
+  entries {
+    index: 711
+    tag: POLYtpe
+    tpe: 712
+  }
+  entries {
+    index: 712
+    tag: TYPEREFtpe
+    pre: 279
+    sym: 713
+    targs: 715
+  }
+  entries {
+    index: 713
+    tag: EXTref
+    name: 714
+    owner: 262
+  }
+  entries {
+    index: 714
+    tag: TYPEname
+    value: "IndexedSeq"
+  }
+  entries {
+    index: 715
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 716
+  }
+  entries {
+    index: 716
+    tag: EXTref
+    name: 717
+    owner: 200
+  }
+  entries {
+    index: 717
+    tag: TYPEname
+    value: "Char"
+  }
+  entries {
+    index: 718
+    tag: SYMANNOT
+    sym: 92
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 719
+    }
+    args {
+      tag: ANNOTARG
+      value: 721
+    }
+  }
+  entries {
+    index: 719
+    tag: LITERALstring
+    name: 720
+  }
+  entries {
+    index: 720
+    tag: TERMname
+    value: "will be made private"
+  }
+  entries {
+    index: 721
+    tag: LITERALstring
+    name: 722
+  }
+  entries {
+    index: 722
+    tag: TERMname
+    value: "2.12.0"
+  }
+  entries {
+    index: 723
+    tag: TERMname
+    value: "__sequenceOfChars "
+  }
+  entries {
+    index: 724
+    tag: SYMANNOT
+    sym: 93
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 719
+    }
+    args {
+      tag: ANNOTARG
+      value: 721
+    }
+  }
+  entries {
+    index: 725
+    tag: METHODtpe
+    ret: 726
+    params: 727
+  }
+  entries {
+    index: 726
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 91
+  }
+  entries {
+    index: 727
+    tag: VALsym
+    name: 710
+    owner: 94
+    flags: PARAM
+    info: 712
+  }
+  entries {
+    index: 728
+    tag: SYMANNOT
+    sym: 727
+    tpe: 729
+    args {
+      tag: ANNOTARG
+      value: 732
+    }
+    args {
+      tag: ANNOTARG
+      value: 721
+    }
+  }
+  entries {
+    index: 729
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 730
+  }
+  entries {
+    index: 730
+    tag: EXTref
+    name: 731
+    owner: 200
+  }
+  entries {
+    index: 731
+    tag: TYPEname
+    value: "deprecatedName"
+  }
+  entries {
+    index: 732
+    tag: LITERALnull
+  }
+  entries {
+    index: 733
+    tag: TERMname
+    value: "length"
+  }
+  entries {
+    index: 734
+    tag: TERMname
+    value: "charAt"
+  }
+  entries {
+    index: 735
+    tag: METHODtpe
+    ret: 715
+    params: 736
+  }
+  entries {
+    index: 736
+    tag: VALsym
+    name: 737
+    owner: 96
+    flags: PARAM
+    info: 577
+  }
+  entries {
+    index: 737
+    tag: TERMname
+    value: "index"
+  }
+  entries {
+    index: 738
+    tag: TERMname
+    value: "subSequence"
+  }
+  entries {
+    index: 739
+    tag: METHODtpe
+    ret: 707
+    params: 740
+    params: 742
+  }
+  entries {
+    index: 740
+    tag: VALsym
+    name: 741
+    owner: 97
+    flags: PARAM
+    info: 577
+  }
+  entries {
+    index: 741
+    tag: TERMname
+    value: "start"
+  }
+  entries {
+    index: 742
+    tag: VALsym
+    name: 743
+    owner: 97
+    flags: PARAM
+    info: 577
+  }
+  entries {
+    index: 743
+    tag: TERMname
+    value: "end"
+  }
+  entries {
+    index: 744
+    tag: TERMname
+    value: "toString"
+  }
+  entries {
+    index: 745
+    tag: METHODtpe
+    ret: 691
+  }
+  entries {
+    index: 746
+    tag: TERMname
+    value: "SeqCharSequence"
+  }
+  entries {
+    index: 747
+    tag: METHODtpe
+    ret: 726
+    params: 748
+  }
+  entries {
+    index: 748
+    tag: VALsym
+    name: 710
+    owner: 99
+    flags: PARAM
+    info: 712
+  }
+  entries {
+    index: 749
+    tag: SYMANNOT
+    sym: 748
+    tpe: 729
+    args {
+      tag: ANNOTARG
+      value: 732
+    }
+    args {
+      tag: ANNOTARG
+      value: 721
+    }
+  }
+  entries {
+    index: 750
+    tag: SYMANNOT
+    sym: 748
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 719
+    }
+    args {
+      tag: ANNOTARG
+      value: 721
+    }
+  }
+  entries {
+    index: 751
+    tag: TYPEname
+    value: "ArrayCharSequence"
+  }
+  entries {
+    index: 752
+    tag: CLASSINFOtpe
+    sym: 100
+    parents: 704
+    parents: 707
+  }
+  entries {
+    index: 753
+    tag: TERMname
+    value: "__arrayOfChars"
+  }
+  entries {
+    index: 754
+    tag: POLYtpe
+    tpe: 755
+  }
+  entries {
+    index: 755
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 756
+    targs: 715
+  }
+  entries {
+    index: 756
+    tag: EXTref
+    name: 757
+    owner: 200
+  }
+  entries {
+    index: 757
+    tag: TYPEname
+    value: "Array"
+  }
+  entries {
+    index: 758
+    tag: SYMANNOT
+    sym: 101
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 719
+    }
+    args {
+      tag: ANNOTARG
+      value: 721
+    }
+  }
+  entries {
+    index: 759
+    tag: TERMname
+    value: "__arrayOfChars "
+  }
+  entries {
+    index: 760
+    tag: SYMANNOT
+    sym: 102
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 719
+    }
+    args {
+      tag: ANNOTARG
+      value: 721
+    }
+  }
+  entries {
+    index: 761
+    tag: METHODtpe
+    ret: 762
+    params: 763
+  }
+  entries {
+    index: 762
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 100
+  }
+  entries {
+    index: 763
+    tag: VALsym
+    name: 753
+    owner: 103
+    flags: PARAM
+    info: 755
+  }
+  entries {
+    index: 764
+    tag: SYMANNOT
+    sym: 763
+    tpe: 729
+    args {
+      tag: ANNOTARG
+      value: 732
+    }
+    args {
+      tag: ANNOTARG
+      value: 721
+    }
+  }
+  entries {
+    index: 765
+    tag: METHODtpe
+    ret: 715
+    params: 766
+  }
+  entries {
+    index: 766
+    tag: VALsym
+    name: 737
+    owner: 105
+    flags: PARAM
+    info: 577
+  }
+  entries {
+    index: 767
+    tag: METHODtpe
+    ret: 707
+    params: 768
+    params: 769
+  }
+  entries {
+    index: 768
+    tag: VALsym
+    name: 741
+    owner: 106
+    flags: PARAM
+    info: 577
+  }
+  entries {
+    index: 769
+    tag: VALsym
+    name: 743
+    owner: 106
+    flags: PARAM
+    info: 577
+  }
+  entries {
+    index: 770
+    tag: TERMname
+    value: "ArrayCharSequence"
+  }
+  entries {
+    index: 771
+    tag: METHODtpe
+    ret: 762
+    params: 772
+  }
+  entries {
+    index: 772
+    tag: VALsym
+    name: 753
+    owner: 108
+    flags: PARAM
+    info: 755
+  }
+  entries {
+    index: 773
+    tag: SYMANNOT
+    sym: 772
+    tpe: 729
+    args {
+      tag: ANNOTARG
+      value: 732
+    }
+    args {
+      tag: ANNOTARG
+      value: 721
+    }
+  }
+  entries {
+    index: 774
+    tag: SYMANNOT
+    sym: 772
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 719
+    }
+    args {
+      tag: ANNOTARG
+      value: 721
+    }
+  }
+  entries {
+    index: 775
+    tag: TERMname
+    value: "StringCanBuildFrom"
+  }
+  entries {
+    index: 776
+    tag: POLYtpe
+    tpe: 777
+  }
+  entries {
+    index: 777
+    tag: TYPEREFtpe
+    pre: 778
+    sym: 781
+    targs: 638
+    targs: 715
+    targs: 638
+  }
+  entries {
+    index: 778
+    tag: THIStpe
+    sym: 779
+  }
+  entries {
+    index: 779
+    tag: EXTMODCLASSref
+    name: 780
+    owner: 262
+  }
+  entries {
+    index: 780
+    tag: TERMname
+    value: "generic"
+  }
+  entries {
+    index: 781
+    tag: EXTref
+    name: 782
+    owner: 779
+  }
+  entries {
+    index: 782
+    tag: TYPEname
+    value: "CanBuildFrom"
+  }
+  entries {
+    index: 783
+    tag: TERMname
+    value: "StringCanBuildFrom "
+  }
+  entries {
+    index: 784
+    tag: TERMname
+    value: "augmentString"
+  }
+  entries {
+    index: 785
+    tag: METHODtpe
+    ret: 786
+    params: 789
+  }
+  entries {
+    index: 786
+    tag: TYPEREFtpe
+    pre: 259
+    sym: 787
+  }
+  entries {
+    index: 787
+    tag: EXTref
+    name: 788
+    owner: 260
+  }
+  entries {
+    index: 788
+    tag: TYPEname
+    value: "StringOps"
+  }
+  entries {
+    index: 789
+    tag: VALsym
+    name: 390
+    owner: 111
+    flags: PARAM
+    info: 638
+  }
+  entries {
+    index: 790
+    tag: SYMANNOT
+    sym: 111
+    tpe: 392
+  }
+  entries {
+    index: 791
+    tag: TERMname
+    value: "unaugmentString"
+  }
+  entries {
+    index: 792
+    tag: METHODtpe
+    ret: 638
+    params: 793
+  }
+  entries {
+    index: 793
+    tag: VALsym
+    name: 390
+    owner: 112
+    flags: PARAM
+    info: 786
+  }
+  entries {
+    index: 794
+    tag: SYMANNOT
+    sym: 112
+    tpe: 392
+  }
+  entries {
+    index: 795
+    tag: TERMname
+    value: "print"
+  }
+  entries {
+    index: 796
+    tag: METHODtpe
+    ret: 412
+    params: 797
+  }
+  entries {
+    index: 797
+    tag: VALsym
+    name: 390
+    owner: 113
+    flags: PARAM
+    info: 237
+  }
+  entries {
+    index: 798
+    tag: TERMname
+    value: "println"
+  }
+  entries {
+    index: 799
+    tag: METHODtpe
+    ret: 412
+  }
+  entries {
+    index: 800
+    tag: METHODtpe
+    ret: 412
+    params: 801
+  }
+  entries {
+    index: 801
+    tag: VALsym
+    name: 390
+    owner: 115
+    flags: PARAM
+    info: 237
+  }
+  entries {
+    index: 802
+    tag: TERMname
+    value: "printf"
+  }
+  entries {
+    index: 803
+    tag: METHODtpe
+    ret: 412
+    params: 804
+    params: 806
+  }
+  entries {
+    index: 804
+    tag: VALsym
+    name: 805
+    owner: 116
+    flags: PARAM
+    info: 638
+  }
+  entries {
+    index: 805
+    tag: TERMname
+    value: "text"
+  }
+  entries {
+    index: 806
+    tag: VALsym
+    name: 807
+    owner: 116
+    flags: PARAM
+    info: 808
+  }
+  entries {
+    index: 807
+    tag: TERMname
+    value: "xs"
+  }
+  entries {
+    index: 808
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 809
+    targs: 237
+  }
+  entries {
+    index: 809
+    tag: EXTref
+    name: 810
+    owner: 200
+  }
+  entries {
+    index: 810
+    tag: TYPEname
+    value: "<repeated>"
+  }
+  entries {
+    index: 811
+    tag: TERMname
+    value: "tuple2ToZippedOps"
+  }
+  entries {
+    index: 812
+    tag: POLYtpe
+    tpe: 813
+    params: 826
+    params: 829
+  }
+  entries {
+    index: 813
+    tag: METHODtpe
+    ret: 814
+    params: 831
+  }
+  entries {
+    index: 814
+    tag: TYPEREFtpe
+    pre: 815
+    sym: 822
+    targs: 825
+    targs: 828
+  }
+  entries {
+    index: 815
+    tag: SINGLEtpe
+    pre: 816
+    sym: 819
+  }
+  entries {
+    index: 816
+    tag: SINGLEtpe
+    pre: 204
+    sym: 817
+  }
+  entries {
+    index: 817
+    tag: EXTref
+    name: 818
+    owner: 200
+  }
+  entries {
+    index: 818
+    tag: TERMname
+    value: "runtime"
+  }
+  entries {
+    index: 819
+    tag: EXTref
+    name: 820
+    owner: 821
+  }
+  entries {
+    index: 820
+    tag: TERMname
+    value: "Tuple2Zipped"
+  }
+  entries {
+    index: 821
+    tag: EXTMODCLASSref
+    name: 818
+    owner: 200
+  }
+  entries {
+    index: 822
+    tag: EXTref
+    name: 823
+    owner: 824
+  }
+  entries {
+    index: 823
+    tag: TYPEname
+    value: "Ops"
+  }
+  entries {
+    index: 824
+    tag: EXTMODCLASSref
+    name: 820
+    owner: 821
+  }
+  entries {
+    index: 825
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 826
+  }
+  entries {
+    index: 826
+    tag: TYPEsym
+    name: 827
+    owner: 117
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 827
+    tag: TYPEname
+    value: "T1"
+  }
+  entries {
+    index: 828
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 829
+  }
+  entries {
+    index: 829
+    tag: TYPEsym
+    name: 830
+    owner: 117
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 830
+    tag: TYPEname
+    value: "T2"
+  }
+  entries {
+    index: 831
+    tag: VALsym
+    name: 390
+    owner: 117
+    flags: PARAM
+    info: 832
+  }
+  entries {
+    index: 832
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 457
+    targs: 825
+    targs: 828
+  }
+  entries {
+    index: 833
+    tag: TERMname
+    value: "tuple3ToZippedOps"
+  }
+  entries {
+    index: 834
+    tag: POLYtpe
+    tpe: 835
+    params: 843
+    params: 845
+    params: 847
+  }
+  entries {
+    index: 835
+    tag: METHODtpe
+    ret: 836
+    params: 849
+  }
+  entries {
+    index: 836
+    tag: TYPEREFtpe
+    pre: 837
+    sym: 840
+    targs: 842
+    targs: 844
+    targs: 846
+  }
+  entries {
+    index: 837
+    tag: SINGLEtpe
+    pre: 816
+    sym: 838
+  }
+  entries {
+    index: 838
+    tag: EXTref
+    name: 839
+    owner: 821
+  }
+  entries {
+    index: 839
+    tag: TERMname
+    value: "Tuple3Zipped"
+  }
+  entries {
+    index: 840
+    tag: EXTref
+    name: 823
+    owner: 841
+  }
+  entries {
+    index: 841
+    tag: EXTMODCLASSref
+    name: 839
+    owner: 821
+  }
+  entries {
+    index: 842
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 843
+  }
+  entries {
+    index: 843
+    tag: TYPEsym
+    name: 827
+    owner: 118
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 844
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 845
+  }
+  entries {
+    index: 845
+    tag: TYPEsym
+    name: 830
+    owner: 118
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 846
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 847
+  }
+  entries {
+    index: 847
+    tag: TYPEsym
+    name: 848
+    owner: 118
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 848
+    tag: TYPEname
+    value: "T3"
+  }
+  entries {
+    index: 849
+    tag: VALsym
+    name: 390
+    owner: 118
+    flags: PARAM
+    info: 850
+  }
+  entries {
+    index: 850
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 503
+    targs: 842
+    targs: 844
+    targs: 846
+  }
+  entries {
+    index: 851
+    tag: TERMname
+    value: "genericArrayOps"
+  }
+  entries {
+    index: 852
+    tag: POLYtpe
+    tpe: 853
+    params: 861
+  }
+  entries {
+    index: 853
+    tag: METHODtpe
+    ret: 854
+    params: 862
+  }
+  entries {
+    index: 854
+    tag: TYPEREFtpe
+    pre: 855
+    sym: 858
+    targs: 860
+  }
+  entries {
+    index: 855
+    tag: THIStpe
+    sym: 856
+  }
+  entries {
+    index: 856
+    tag: EXTMODCLASSref
+    name: 857
+    owner: 262
+  }
+  entries {
+    index: 857
+    tag: TERMname
+    value: "mutable"
+  }
+  entries {
+    index: 858
+    tag: EXTref
+    name: 859
+    owner: 856
+  }
+  entries {
+    index: 859
+    tag: TYPEname
+    value: "ArrayOps"
+  }
+  entries {
+    index: 860
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 861
+  }
+  entries {
+    index: 861
+    tag: TYPEsym
+    name: 232
+    owner: 119
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 862
+    tag: VALsym
+    name: 807
+    owner: 119
+    flags: PARAM
+    info: 863
+  }
+  entries {
+    index: 863
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 756
+    targs: 860
+  }
+  entries {
+    index: 864
+    tag: TERMname
+    value: "booleanArrayOps"
+  }
+  entries {
+    index: 865
+    tag: METHODtpe
+    ret: 866
+    params: 873
+  }
+  entries {
+    index: 866
+    tag: TYPEREFtpe
+    pre: 867
+    sym: 870
+  }
+  entries {
+    index: 867
+    tag: SINGLEtpe
+    pre: 855
+    sym: 868
+  }
+  entries {
+    index: 868
+    tag: EXTref
+    name: 869
+    owner: 856
+  }
+  entries {
+    index: 869
+    tag: TERMname
+    value: "ArrayOps"
+  }
+  entries {
+    index: 870
+    tag: EXTref
+    name: 871
+    owner: 872
+  }
+  entries {
+    index: 871
+    tag: TYPEname
+    value: "ofBoolean"
+  }
+  entries {
+    index: 872
+    tag: EXTMODCLASSref
+    name: 869
+    owner: 856
+  }
+  entries {
+    index: 873
+    tag: VALsym
+    name: 807
+    owner: 120
+    flags: PARAM
+    info: 874
+  }
+  entries {
+    index: 874
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 756
+    targs: 417
+  }
+  entries {
+    index: 875
+    tag: TERMname
+    value: "byteArrayOps"
+  }
+  entries {
+    index: 876
+    tag: METHODtpe
+    ret: 877
+    params: 880
+  }
+  entries {
+    index: 877
+    tag: TYPEREFtpe
+    pre: 867
+    sym: 878
+  }
+  entries {
+    index: 878
+    tag: EXTref
+    name: 879
+    owner: 872
+  }
+  entries {
+    index: 879
+    tag: TYPEname
+    value: "ofByte"
+  }
+  entries {
+    index: 880
+    tag: VALsym
+    name: 807
+    owner: 121
+    flags: PARAM
+    info: 881
+  }
+  entries {
+    index: 881
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 756
+    targs: 882
+  }
+  entries {
+    index: 882
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 883
+  }
+  entries {
+    index: 883
+    tag: EXTref
+    name: 884
+    owner: 200
+  }
+  entries {
+    index: 884
+    tag: TYPEname
+    value: "Byte"
+  }
+  entries {
+    index: 885
+    tag: TERMname
+    value: "charArrayOps"
+  }
+  entries {
+    index: 886
+    tag: METHODtpe
+    ret: 887
+    params: 890
+  }
+  entries {
+    index: 887
+    tag: TYPEREFtpe
+    pre: 867
+    sym: 888
+  }
+  entries {
+    index: 888
+    tag: EXTref
+    name: 889
+    owner: 872
+  }
+  entries {
+    index: 889
+    tag: TYPEname
+    value: "ofChar"
+  }
+  entries {
+    index: 890
+    tag: VALsym
+    name: 807
+    owner: 122
+    flags: PARAM
+    info: 755
+  }
+  entries {
+    index: 891
+    tag: TERMname
+    value: "doubleArrayOps"
+  }
+  entries {
+    index: 892
+    tag: METHODtpe
+    ret: 893
+    params: 896
+  }
+  entries {
+    index: 893
+    tag: TYPEREFtpe
+    pre: 867
+    sym: 894
+  }
+  entries {
+    index: 894
+    tag: EXTref
+    name: 895
+    owner: 872
+  }
+  entries {
+    index: 895
+    tag: TYPEname
+    value: "ofDouble"
+  }
+  entries {
+    index: 896
+    tag: VALsym
+    name: 807
+    owner: 123
+    flags: PARAM
+    info: 897
+  }
+  entries {
+    index: 897
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 756
+    targs: 898
+  }
+  entries {
+    index: 898
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 899
+  }
+  entries {
+    index: 899
+    tag: EXTref
+    name: 900
+    owner: 200
+  }
+  entries {
+    index: 900
+    tag: TYPEname
+    value: "Double"
+  }
+  entries {
+    index: 901
+    tag: TERMname
+    value: "floatArrayOps"
+  }
+  entries {
+    index: 902
+    tag: METHODtpe
+    ret: 903
+    params: 906
+  }
+  entries {
+    index: 903
+    tag: TYPEREFtpe
+    pre: 867
+    sym: 904
+  }
+  entries {
+    index: 904
+    tag: EXTref
+    name: 905
+    owner: 872
+  }
+  entries {
+    index: 905
+    tag: TYPEname
+    value: "ofFloat"
+  }
+  entries {
+    index: 906
+    tag: VALsym
+    name: 807
+    owner: 124
+    flags: PARAM
+    info: 907
+  }
+  entries {
+    index: 907
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 756
+    targs: 908
+  }
+  entries {
+    index: 908
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 909
+  }
+  entries {
+    index: 909
+    tag: EXTref
+    name: 910
+    owner: 200
+  }
+  entries {
+    index: 910
+    tag: TYPEname
+    value: "Float"
+  }
+  entries {
+    index: 911
+    tag: TERMname
+    value: "intArrayOps"
+  }
+  entries {
+    index: 912
+    tag: METHODtpe
+    ret: 913
+    params: 916
+  }
+  entries {
+    index: 913
+    tag: TYPEREFtpe
+    pre: 867
+    sym: 914
+  }
+  entries {
+    index: 914
+    tag: EXTref
+    name: 915
+    owner: 872
+  }
+  entries {
+    index: 915
+    tag: TYPEname
+    value: "ofInt"
+  }
+  entries {
+    index: 916
+    tag: VALsym
+    name: 807
+    owner: 125
+    flags: PARAM
+    info: 917
+  }
+  entries {
+    index: 917
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 756
+    targs: 577
+  }
+  entries {
+    index: 918
+    tag: TERMname
+    value: "longArrayOps"
+  }
+  entries {
+    index: 919
+    tag: METHODtpe
+    ret: 920
+    params: 923
+  }
+  entries {
+    index: 920
+    tag: TYPEREFtpe
+    pre: 867
+    sym: 921
+  }
+  entries {
+    index: 921
+    tag: EXTref
+    name: 922
+    owner: 872
+  }
+  entries {
+    index: 922
+    tag: TYPEname
+    value: "ofLong"
+  }
+  entries {
+    index: 923
+    tag: VALsym
+    name: 807
+    owner: 126
+    flags: PARAM
+    info: 924
+  }
+  entries {
+    index: 924
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 756
+    targs: 925
+  }
+  entries {
+    index: 925
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 926
+  }
+  entries {
+    index: 926
+    tag: EXTref
+    name: 927
+    owner: 200
+  }
+  entries {
+    index: 927
+    tag: TYPEname
+    value: "Long"
+  }
+  entries {
+    index: 928
+    tag: TERMname
+    value: "refArrayOps"
+  }
+  entries {
+    index: 929
+    tag: POLYtpe
+    tpe: 930
+    params: 935
+  }
+  entries {
+    index: 930
+    tag: METHODtpe
+    ret: 931
+    params: 937
+  }
+  entries {
+    index: 931
+    tag: TYPEREFtpe
+    pre: 867
+    sym: 932
+    targs: 934
+  }
+  entries {
+    index: 932
+    tag: EXTref
+    name: 933
+    owner: 872
+  }
+  entries {
+    index: 933
+    tag: TYPEname
+    value: "ofRef"
+  }
+  entries {
+    index: 934
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 935
+  }
+  entries {
+    index: 935
+    tag: TYPEsym
+    name: 232
+    owner: 127
+    flags: DEFERRED | PARAM
+    info: 936
+  }
+  entries {
+    index: 936
+    tag: TYPEBOUNDStpe
+    lo: 234
+    hi: 471
+  }
+  entries {
+    index: 937
+    tag: VALsym
+    name: 807
+    owner: 127
+    flags: PARAM
+    info: 938
+  }
+  entries {
+    index: 938
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 756
+    targs: 934
+  }
+  entries {
+    index: 939
+    tag: TERMname
+    value: "shortArrayOps"
+  }
+  entries {
+    index: 940
+    tag: METHODtpe
+    ret: 941
+    params: 944
+  }
+  entries {
+    index: 941
+    tag: TYPEREFtpe
+    pre: 867
+    sym: 942
+  }
+  entries {
+    index: 942
+    tag: EXTref
+    name: 943
+    owner: 872
+  }
+  entries {
+    index: 943
+    tag: TYPEname
+    value: "ofShort"
+  }
+  entries {
+    index: 944
+    tag: VALsym
+    name: 807
+    owner: 128
+    flags: PARAM
+    info: 945
+  }
+  entries {
+    index: 945
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 756
+    targs: 946
+  }
+  entries {
+    index: 946
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 947
+  }
+  entries {
+    index: 947
+    tag: EXTref
+    name: 948
+    owner: 200
+  }
+  entries {
+    index: 948
+    tag: TYPEname
+    value: "Short"
+  }
+  entries {
+    index: 949
+    tag: TERMname
+    value: "unitArrayOps"
+  }
+  entries {
+    index: 950
+    tag: METHODtpe
+    ret: 951
+    params: 954
+  }
+  entries {
+    index: 951
+    tag: TYPEREFtpe
+    pre: 867
+    sym: 952
+  }
+  entries {
+    index: 952
+    tag: EXTref
+    name: 953
+    owner: 872
+  }
+  entries {
+    index: 953
+    tag: TYPEname
+    value: "ofUnit"
+  }
+  entries {
+    index: 954
+    tag: VALsym
+    name: 807
+    owner: 129
+    flags: PARAM
+    info: 955
+  }
+  entries {
+    index: 955
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 756
+    targs: 412
+  }
+  entries {
+    index: 956
+    tag: TERMname
+    value: "byte2Byte"
+  }
+  entries {
+    index: 957
+    tag: METHODtpe
+    ret: 958
+    params: 960
+  }
+  entries {
+    index: 958
+    tag: TYPEREFtpe
+    pre: 223
+    sym: 959
+  }
+  entries {
+    index: 959
+    tag: EXTref
+    name: 884
+    owner: 224
+  }
+  entries {
+    index: 960
+    tag: VALsym
+    name: 390
+    owner: 130
+    flags: PARAM
+    info: 882
+  }
+  entries {
+    index: 961
+    tag: TERMname
+    value: "short2Short"
+  }
+  entries {
+    index: 962
+    tag: METHODtpe
+    ret: 963
+    params: 965
+  }
+  entries {
+    index: 963
+    tag: TYPEREFtpe
+    pre: 223
+    sym: 964
+  }
+  entries {
+    index: 964
+    tag: EXTref
+    name: 948
+    owner: 224
+  }
+  entries {
+    index: 965
+    tag: VALsym
+    name: 390
+    owner: 131
+    flags: PARAM
+    info: 946
+  }
+  entries {
+    index: 966
+    tag: TERMname
+    value: "char2Character"
+  }
+  entries {
+    index: 967
+    tag: METHODtpe
+    ret: 968
+    params: 971
+  }
+  entries {
+    index: 968
+    tag: TYPEREFtpe
+    pre: 223
+    sym: 969
+  }
+  entries {
+    index: 969
+    tag: EXTref
+    name: 970
+    owner: 224
+  }
+  entries {
+    index: 970
+    tag: TYPEname
+    value: "Character"
+  }
+  entries {
+    index: 971
+    tag: VALsym
+    name: 390
+    owner: 132
+    flags: PARAM
+    info: 715
+  }
+  entries {
+    index: 972
+    tag: TERMname
+    value: "int2Integer"
+  }
+  entries {
+    index: 973
+    tag: METHODtpe
+    ret: 974
+    params: 977
+  }
+  entries {
+    index: 974
+    tag: TYPEREFtpe
+    pre: 223
+    sym: 975
+  }
+  entries {
+    index: 975
+    tag: EXTref
+    name: 976
+    owner: 224
+  }
+  entries {
+    index: 976
+    tag: TYPEname
+    value: "Integer"
+  }
+  entries {
+    index: 977
+    tag: VALsym
+    name: 390
+    owner: 133
+    flags: PARAM
+    info: 577
+  }
+  entries {
+    index: 978
+    tag: TERMname
+    value: "long2Long"
+  }
+  entries {
+    index: 979
+    tag: METHODtpe
+    ret: 980
+    params: 982
+  }
+  entries {
+    index: 980
+    tag: TYPEREFtpe
+    pre: 223
+    sym: 981
+  }
+  entries {
+    index: 981
+    tag: EXTref
+    name: 927
+    owner: 224
+  }
+  entries {
+    index: 982
+    tag: VALsym
+    name: 390
+    owner: 134
+    flags: PARAM
+    info: 925
+  }
+  entries {
+    index: 983
+    tag: TERMname
+    value: "float2Float"
+  }
+  entries {
+    index: 984
+    tag: METHODtpe
+    ret: 985
+    params: 987
+  }
+  entries {
+    index: 985
+    tag: TYPEREFtpe
+    pre: 223
+    sym: 986
+  }
+  entries {
+    index: 986
+    tag: EXTref
+    name: 910
+    owner: 224
+  }
+  entries {
+    index: 987
+    tag: VALsym
+    name: 390
+    owner: 135
+    flags: PARAM
+    info: 908
+  }
+  entries {
+    index: 988
+    tag: TERMname
+    value: "double2Double"
+  }
+  entries {
+    index: 989
+    tag: METHODtpe
+    ret: 990
+    params: 992
+  }
+  entries {
+    index: 990
+    tag: TYPEREFtpe
+    pre: 223
+    sym: 991
+  }
+  entries {
+    index: 991
+    tag: EXTref
+    name: 900
+    owner: 224
+  }
+  entries {
+    index: 992
+    tag: VALsym
+    name: 390
+    owner: 136
+    flags: PARAM
+    info: 898
+  }
+  entries {
+    index: 993
+    tag: TERMname
+    value: "boolean2Boolean"
+  }
+  entries {
+    index: 994
+    tag: METHODtpe
+    ret: 995
+    params: 997
+  }
+  entries {
+    index: 995
+    tag: TYPEREFtpe
+    pre: 223
+    sym: 996
+  }
+  entries {
+    index: 996
+    tag: EXTref
+    name: 419
+    owner: 224
+  }
+  entries {
+    index: 997
+    tag: VALsym
+    name: 390
+    owner: 137
+    flags: PARAM
+    info: 417
+  }
+  entries {
+    index: 998
+    tag: TERMname
+    value: "Byte2byte"
+  }
+  entries {
+    index: 999
+    tag: METHODtpe
+    ret: 882
+    params: 1000
+  }
+  entries {
+    index: 1000
+    tag: VALsym
+    name: 390
+    owner: 138
+    flags: PARAM
+    info: 958
+  }
+  entries {
+    index: 1001
+    tag: TERMname
+    value: "Short2short"
+  }
+  entries {
+    index: 1002
+    tag: METHODtpe
+    ret: 946
+    params: 1003
+  }
+  entries {
+    index: 1003
+    tag: VALsym
+    name: 390
+    owner: 139
+    flags: PARAM
+    info: 963
+  }
+  entries {
+    index: 1004
+    tag: TERMname
+    value: "Character2char"
+  }
+  entries {
+    index: 1005
+    tag: METHODtpe
+    ret: 715
+    params: 1006
+  }
+  entries {
+    index: 1006
+    tag: VALsym
+    name: 390
+    owner: 140
+    flags: PARAM
+    info: 968
+  }
+  entries {
+    index: 1007
+    tag: TERMname
+    value: "Integer2int"
+  }
+  entries {
+    index: 1008
+    tag: METHODtpe
+    ret: 577
+    params: 1009
+  }
+  entries {
+    index: 1009
+    tag: VALsym
+    name: 390
+    owner: 141
+    flags: PARAM
+    info: 974
+  }
+  entries {
+    index: 1010
+    tag: TERMname
+    value: "Long2long"
+  }
+  entries {
+    index: 1011
+    tag: METHODtpe
+    ret: 925
+    params: 1012
+  }
+  entries {
+    index: 1012
+    tag: VALsym
+    name: 390
+    owner: 142
+    flags: PARAM
+    info: 980
+  }
+  entries {
+    index: 1013
+    tag: TERMname
+    value: "Float2float"
+  }
+  entries {
+    index: 1014
+    tag: METHODtpe
+    ret: 908
+    params: 1015
+  }
+  entries {
+    index: 1015
+    tag: VALsym
+    name: 390
+    owner: 143
+    flags: PARAM
+    info: 985
+  }
+  entries {
+    index: 1016
+    tag: TERMname
+    value: "Double2double"
+  }
+  entries {
+    index: 1017
+    tag: METHODtpe
+    ret: 898
+    params: 1018
+  }
+  entries {
+    index: 1018
+    tag: VALsym
+    name: 390
+    owner: 144
+    flags: PARAM
+    info: 990
+  }
+  entries {
+    index: 1019
+    tag: TERMname
+    value: "Boolean2boolean"
+  }
+  entries {
+    index: 1020
+    tag: METHODtpe
+    ret: 417
+    params: 1021
+  }
+  entries {
+    index: 1021
+    tag: VALsym
+    name: 390
+    owner: 145
+    flags: PARAM
+    info: 995
+  }
+  entries {
+    index: 1022
+    tag: TYPEname
+    value: "$less$colon$less"
+  }
+  entries {
+    index: 1023
+    tag: POLYtpe
+    tpe: 1024
+    params: 1027
+    params: 1030
+  }
+  entries {
+    index: 1024
+    tag: CLASSINFOtpe
+    sym: 146
+    parents: 471
+    parents: 1025
+    parents: 1032
+  }
+  entries {
+    index: 1025
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 248
+    targs: 1026
+    targs: 1029
+  }
+  entries {
+    index: 1026
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1027
+  }
+  entries {
+    index: 1027
+    tag: TYPEsym
+    name: 1028
+    owner: 146
+    flags: DEFERRED | PARAM | CONTRAVARIANT
+    info: 233
+  }
+  entries {
+    index: 1028
+    tag: TYPEname
+    value: "From"
+  }
+  entries {
+    index: 1029
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1030
+  }
+  entries {
+    index: 1030
+    tag: TYPEsym
+    name: 1031
+    owner: 146
+    flags: DEFERRED | PARAM | COVARIANT
+    info: 233
+  }
+  entries {
+    index: 1031
+    tag: TYPEname
+    value: "To"
+  }
+  entries {
+    index: 1032
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 1033
+  }
+  entries {
+    index: 1033
+    tag: EXTref
+    name: 1034
+    owner: 200
+  }
+  entries {
+    index: 1034
+    tag: TYPEname
+    value: "Serializable"
+  }
+  entries {
+    index: 1035
+    tag: METHODtpe
+    ret: 1036
+  }
+  entries {
+    index: 1036
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 146
+    targs: 1026
+    targs: 1029
+  }
+  entries {
+    index: 1037
+    tag: CHILDREN
+    sym: 146
+    children: 1038
+  }
+  entries {
+    index: 1038
+    tag: CLASSsym
+    name: 1039
+    owner: 146
+    flags: 
+    info: 1040
+  }
+  entries {
+    index: 1039
+    tag: TYPEname
+    value: "<local child>"
+  }
+  entries {
+    index: 1040
+    tag: CLASSINFOtpe
+    sym: 1038
+    parents: 1036
+  }
+  entries {
+    index: 1041
+    tag: SYMANNOT
+    sym: 146
+    tpe: 316
+    args {
+      tag: ANNOTARG
+      value: 1042
+    }
+  }
+  entries {
+    index: 1042
+    tag: LITERALstring
+    name: 1043
+  }
+  entries {
+    index: 1043
+    tag: TERMname
+    value: "Cannot prove that ${From} <:< ${To}."
+  }
+  entries {
+    index: 1044
+    tag: TERMname
+    value: "singleton_$less$colon$less"
+  }
+  entries {
+    index: 1045
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 146
+    targs: 237
+    targs: 237
+  }
+  entries {
+    index: 1046
+    tag: TERMname
+    value: "$conforms"
+  }
+  entries {
+    index: 1047
+    tag: POLYtpe
+    tpe: 1048
+    params: 1051
+  }
+  entries {
+    index: 1048
+    tag: POLYtpe
+    tpe: 1049
+  }
+  entries {
+    index: 1049
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 146
+    targs: 1050
+    targs: 1050
+  }
+  entries {
+    index: 1050
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1051
+  }
+  entries {
+    index: 1051
+    tag: TYPEsym
+    name: 252
+    owner: 149
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1052
+    tag: TERMname
+    value: "conforms"
+  }
+  entries {
+    index: 1053
+    tag: POLYtpe
+    tpe: 1054
+    params: 1057
+  }
+  entries {
+    index: 1054
+    tag: POLYtpe
+    tpe: 1055
+  }
+  entries {
+    index: 1055
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 146
+    targs: 1056
+    targs: 1056
+  }
+  entries {
+    index: 1056
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1057
+  }
+  entries {
+    index: 1057
+    tag: TYPEsym
+    name: 252
+    owner: 150
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1058
+    tag: SYMANNOT
+    sym: 150
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 1059
+    }
+    args {
+      tag: ANNOTARG
+      value: 466
+    }
+  }
+  entries {
+    index: 1059
+    tag: LITERALstring
+    name: 1060
+  }
+  entries {
+    index: 1060
+    tag: TERMname
+    value: "use `implicitly[T <:< U]` or `identity` instead."
+  }
+  entries {
+    index: 1061
+    tag: TYPEname
+    value: "$eq$colon$eq"
+  }
+  entries {
+    index: 1062
+    tag: POLYtpe
+    tpe: 1063
+    params: 1066
+    params: 1068
+  }
+  entries {
+    index: 1063
+    tag: CLASSINFOtpe
+    sym: 151
+    parents: 471
+    parents: 1064
+    parents: 1032
+  }
+  entries {
+    index: 1064
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 248
+    targs: 1065
+    targs: 1067
+  }
+  entries {
+    index: 1065
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1066
+  }
+  entries {
+    index: 1066
+    tag: TYPEsym
+    name: 1028
+    owner: 151
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1067
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1068
+  }
+  entries {
+    index: 1068
+    tag: TYPEsym
+    name: 1031
+    owner: 151
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1069
+    tag: METHODtpe
+    ret: 1070
+  }
+  entries {
+    index: 1070
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 151
+    targs: 1065
+    targs: 1067
+  }
+  entries {
+    index: 1071
+    tag: CHILDREN
+    sym: 151
+    children: 1072
+  }
+  entries {
+    index: 1072
+    tag: CLASSsym
+    name: 1039
+    owner: 151
+    flags: 
+    info: 1073
+  }
+  entries {
+    index: 1073
+    tag: CLASSINFOtpe
+    sym: 1072
+    parents: 1070
+  }
+  entries {
+    index: 1074
+    tag: SYMANNOT
+    sym: 151
+    tpe: 316
+    args {
+      tag: ANNOTARG
+      value: 1075
+    }
+  }
+  entries {
+    index: 1075
+    tag: LITERALstring
+    name: 1076
+  }
+  entries {
+    index: 1076
+    tag: TERMname
+    value: "Cannot prove that ${From} =:= ${To}."
+  }
+  entries {
+    index: 1077
+    tag: TERMname
+    value: "singleton_$eq$colon$eq"
+  }
+  entries {
+    index: 1078
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 151
+    targs: 237
+    targs: 237
+  }
+  entries {
+    index: 1079
+    tag: TERMname
+    value: "$eq$colon$eq"
+  }
+  entries {
+    index: 1080
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 155
+  }
+  entries {
+    index: 1081
+    tag: CLASSINFOtpe
+    sym: 155
+    parents: 471
+    parents: 1032
+  }
+  entries {
+    index: 1082
+    tag: METHODtpe
+    ret: 1080
+  }
+  entries {
+    index: 1083
+    tag: TERMname
+    value: "tpEquals"
+  }
+  entries {
+    index: 1084
+    tag: POLYtpe
+    tpe: 1085
+    params: 1088
+  }
+  entries {
+    index: 1085
+    tag: POLYtpe
+    tpe: 1086
+  }
+  entries {
+    index: 1086
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 151
+    targs: 1087
+    targs: 1087
+  }
+  entries {
+    index: 1087
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1088
+  }
+  entries {
+    index: 1088
+    tag: TYPEsym
+    name: 252
+    owner: 157
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1089
+    tag: TERMname
+    value: "readResolve"
+  }
+  entries {
+    index: 1090
+    tag: METHODtpe
+    ret: 704
+  }
+  entries {
+    index: 1091
+    tag: TYPEname
+    value: "DummyImplicit"
+  }
+  entries {
+    index: 1092
+    tag: CLASSINFOtpe
+    sym: 159
+    parents: 471
+  }
+  entries {
+    index: 1093
+    tag: METHODtpe
+    ret: 1094
+  }
+  entries {
+    index: 1094
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 159
+  }
+  entries {
+    index: 1095
+    tag: TERMname
+    value: "DummyImplicit"
+  }
+  entries {
+    index: 1096
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 162
+  }
+  entries {
+    index: 1097
+    tag: CLASSINFOtpe
+    sym: 162
+    parents: 471
+  }
+  entries {
+    index: 1098
+    tag: METHODtpe
+    ret: 1096
+  }
+  entries {
+    index: 1099
+    tag: TERMname
+    value: "dummyImplicit"
+  }
+  entries {
+    index: 1100
+    tag: POLYtpe
+    tpe: 1094
+  }
+  entries {
+    index: 1101
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 166
+  }
+  entries {
+    index: 1102
+    tag: CLASSINFOtpe
+    sym: 166
+    parents: 471
+  }
+  entries {
+    index: 1103
+    tag: METHODtpe
+    ret: 1101
+  }
+  entries {
+    index: 1104
+    tag: TERMname
+    value: "getStackTraceString$extension"
+  }
+  entries {
+    index: 1105
+    tag: METHODtpe
+    ret: 691
+    params: 1106
+  }
+  entries {
+    index: 1106
+    tag: VALsym
+    name: 1107
+    owner: 168
+    flags: PARAM
+    info: 687
+  }
+  entries {
+    index: 1107
+    tag: TERMname
+    value: "$this"
+  }
+  entries {
+    index: 1108
+    tag: SYMANNOT
+    sym: 168
+    tpe: 308
+    args {
+      tag: ANNOTARG
+      value: 695
+    }
+    args {
+      tag: ANNOTARG
+      value: 466
+    }
+  }
+  entries {
+    index: 1109
+    tag: TERMname
+    value: "hashCode$extension"
+  }
+  entries {
+    index: 1110
+    tag: METHODtpe
+    ret: 576
+    params: 1111
+  }
+  entries {
+    index: 1111
+    tag: VALsym
+    name: 1107
+    owner: 169
+    flags: PARAM
+    info: 687
+  }
+  entries {
+    index: 1112
+    tag: TERMname
+    value: "equals$extension"
+  }
+  entries {
+    index: 1113
+    tag: METHODtpe
+    ret: 1114
+    params: 1116
+  }
+  entries {
+    index: 1114
+    tag: METHODtpe
+    ret: 417
+    params: 1115
+  }
+  entries {
+    index: 1115
+    tag: VALsym
+    name: 583
+    owner: 170
+    flags: PARAM | SYNTHETIC
+    info: 237
+  }
+  entries {
+    index: 1116
+    tag: VALsym
+    name: 1107
+    owner: 170
+    flags: PARAM
+    info: 687
+  }
+  entries {
+    index: 1117
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 172
+  }
+  entries {
+    index: 1118
+    tag: CLASSINFOtpe
+    sym: 172
+    parents: 471
+  }
+  entries {
+    index: 1119
+    tag: METHODtpe
+    ret: 1117
+  }
+  entries {
+    index: 1120
+    tag: TERMname
+    value: "$plus$extension"
+  }
+  entries {
+    index: 1121
+    tag: POLYtpe
+    tpe: 1122
+    params: 1128
+  }
+  entries {
+    index: 1122
+    tag: METHODtpe
+    ret: 1123
+    params: 1125
+  }
+  entries {
+    index: 1123
+    tag: METHODtpe
+    ret: 638
+    params: 1124
+  }
+  entries {
+    index: 1124
+    tag: VALsym
+    name: 665
+    owner: 174
+    flags: PARAM
+    info: 638
+  }
+  entries {
+    index: 1125
+    tag: VALsym
+    name: 1107
+    owner: 174
+    flags: PARAM
+    info: 1126
+  }
+  entries {
+    index: 1126
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 75
+    targs: 1127
+  }
+  entries {
+    index: 1127
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1128
+  }
+  entries {
+    index: 1128
+    tag: TYPEsym
+    name: 252
+    owner: 174
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1129
+    tag: POLYtpe
+    tpe: 1130
+    params: 1134
+  }
+  entries {
+    index: 1130
+    tag: METHODtpe
+    ret: 576
+    params: 1131
+  }
+  entries {
+    index: 1131
+    tag: VALsym
+    name: 1107
+    owner: 175
+    flags: PARAM
+    info: 1132
+  }
+  entries {
+    index: 1132
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 75
+    targs: 1133
+  }
+  entries {
+    index: 1133
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1134
+  }
+  entries {
+    index: 1134
+    tag: TYPEsym
+    name: 252
+    owner: 175
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1135
+    tag: POLYtpe
+    tpe: 1136
+    params: 1142
+  }
+  entries {
+    index: 1136
+    tag: METHODtpe
+    ret: 1137
+    params: 1139
+  }
+  entries {
+    index: 1137
+    tag: METHODtpe
+    ret: 417
+    params: 1138
+  }
+  entries {
+    index: 1138
+    tag: VALsym
+    name: 583
+    owner: 176
+    flags: PARAM | SYNTHETIC
+    info: 237
+  }
+  entries {
+    index: 1139
+    tag: VALsym
+    name: 1107
+    owner: 176
+    flags: PARAM
+    info: 1140
+  }
+  entries {
+    index: 1140
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 75
+    targs: 1141
+  }
+  entries {
+    index: 1141
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1142
+  }
+  entries {
+    index: 1142
+    tag: TYPEsym
+    name: 252
+    owner: 176
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1143
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 178
+  }
+  entries {
+    index: 1144
+    tag: CLASSINFOtpe
+    sym: 178
+    parents: 471
+  }
+  entries {
+    index: 1145
+    tag: METHODtpe
+    ret: 1143
+  }
+  entries {
+    index: 1146
+    tag: TERMname
+    value: "formatted$extension"
+  }
+  entries {
+    index: 1147
+    tag: POLYtpe
+    tpe: 1148
+    params: 1154
+  }
+  entries {
+    index: 1148
+    tag: METHODtpe
+    ret: 1149
+    params: 1151
+  }
+  entries {
+    index: 1149
+    tag: METHODtpe
+    ret: 638
+    params: 1150
+  }
+  entries {
+    index: 1150
+    tag: VALsym
+    name: 640
+    owner: 180
+    flags: PARAM
+    info: 638
+  }
+  entries {
+    index: 1151
+    tag: VALsym
+    name: 1107
+    owner: 180
+    flags: PARAM
+    info: 1152
+  }
+  entries {
+    index: 1152
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 67
+    targs: 1153
+  }
+  entries {
+    index: 1153
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1154
+  }
+  entries {
+    index: 1154
+    tag: TYPEsym
+    name: 252
+    owner: 180
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1155
+    tag: SYMANNOT
+    sym: 180
+    tpe: 392
+  }
+  entries {
+    index: 1156
+    tag: POLYtpe
+    tpe: 1157
+    params: 1161
+  }
+  entries {
+    index: 1157
+    tag: METHODtpe
+    ret: 576
+    params: 1158
+  }
+  entries {
+    index: 1158
+    tag: VALsym
+    name: 1107
+    owner: 181
+    flags: PARAM
+    info: 1159
+  }
+  entries {
+    index: 1159
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 67
+    targs: 1160
+  }
+  entries {
+    index: 1160
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1161
+  }
+  entries {
+    index: 1161
+    tag: TYPEsym
+    name: 252
+    owner: 181
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1162
+    tag: POLYtpe
+    tpe: 1163
+    params: 1169
+  }
+  entries {
+    index: 1163
+    tag: METHODtpe
+    ret: 1164
+    params: 1166
+  }
+  entries {
+    index: 1164
+    tag: METHODtpe
+    ret: 417
+    params: 1165
+  }
+  entries {
+    index: 1165
+    tag: VALsym
+    name: 583
+    owner: 182
+    flags: PARAM | SYNTHETIC
+    info: 237
+  }
+  entries {
+    index: 1166
+    tag: VALsym
+    name: 1107
+    owner: 182
+    flags: PARAM
+    info: 1167
+  }
+  entries {
+    index: 1167
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 67
+    targs: 1168
+  }
+  entries {
+    index: 1168
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1169
+  }
+  entries {
+    index: 1169
+    tag: TYPEsym
+    name: 252
+    owner: 182
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1170
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 184
+  }
+  entries {
+    index: 1171
+    tag: CLASSINFOtpe
+    sym: 184
+    parents: 471
+  }
+  entries {
+    index: 1172
+    tag: METHODtpe
+    ret: 1170
+  }
+  entries {
+    index: 1173
+    tag: TERMname
+    value: "ensuring$extension0"
+  }
+  entries {
+    index: 1174
+    tag: POLYtpe
+    tpe: 1175
+    params: 1178
+  }
+  entries {
+    index: 1175
+    tag: METHODtpe
+    ret: 1176
+    params: 1180
+  }
+  entries {
+    index: 1176
+    tag: METHODtpe
+    ret: 1177
+    params: 1179
+  }
+  entries {
+    index: 1177
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1178
+  }
+  entries {
+    index: 1178
+    tag: TYPEsym
+    name: 252
+    owner: 186
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1179
+    tag: VALsym
+    name: 605
+    owner: 186
+    flags: PARAM
+    info: 417
+  }
+  entries {
+    index: 1180
+    tag: VALsym
+    name: 1107
+    owner: 186
+    flags: PARAM
+    info: 1181
+  }
+  entries {
+    index: 1181
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 56
+    targs: 1177
+  }
+  entries {
+    index: 1182
+    tag: TERMname
+    value: "ensuring$extension1"
+  }
+  entries {
+    index: 1183
+    tag: POLYtpe
+    tpe: 1184
+    params: 1187
+  }
+  entries {
+    index: 1184
+    tag: METHODtpe
+    ret: 1185
+    params: 1190
+  }
+  entries {
+    index: 1185
+    tag: METHODtpe
+    ret: 1186
+    params: 1188
+    params: 1189
+  }
+  entries {
+    index: 1186
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1187
+  }
+  entries {
+    index: 1187
+    tag: TYPEsym
+    name: 252
+    owner: 187
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1188
+    tag: VALsym
+    name: 605
+    owner: 187
+    flags: PARAM
+    info: 417
+  }
+  entries {
+    index: 1189
+    tag: VALsym
+    name: 609
+    owner: 187
+    flags: PARAM | BYNAMEPARAM
+    info: 429
+  }
+  entries {
+    index: 1190
+    tag: VALsym
+    name: 1107
+    owner: 187
+    flags: PARAM
+    info: 1191
+  }
+  entries {
+    index: 1191
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 56
+    targs: 1186
+  }
+  entries {
+    index: 1192
+    tag: TERMname
+    value: "ensuring$extension2"
+  }
+  entries {
+    index: 1193
+    tag: POLYtpe
+    tpe: 1194
+    params: 1197
+  }
+  entries {
+    index: 1194
+    tag: METHODtpe
+    ret: 1195
+    params: 1200
+  }
+  entries {
+    index: 1195
+    tag: METHODtpe
+    ret: 1196
+    params: 1198
+  }
+  entries {
+    index: 1196
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1197
+  }
+  entries {
+    index: 1197
+    tag: TYPEsym
+    name: 252
+    owner: 188
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1198
+    tag: VALsym
+    name: 605
+    owner: 188
+    flags: PARAM
+    info: 1199
+  }
+  entries {
+    index: 1199
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 248
+    targs: 1196
+    targs: 417
+  }
+  entries {
+    index: 1200
+    tag: VALsym
+    name: 1107
+    owner: 188
+    flags: PARAM
+    info: 1201
+  }
+  entries {
+    index: 1201
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 56
+    targs: 1196
+  }
+  entries {
+    index: 1202
+    tag: TERMname
+    value: "ensuring$extension3"
+  }
+  entries {
+    index: 1203
+    tag: POLYtpe
+    tpe: 1204
+    params: 1207
+  }
+  entries {
+    index: 1204
+    tag: METHODtpe
+    ret: 1205
+    params: 1211
+  }
+  entries {
+    index: 1205
+    tag: METHODtpe
+    ret: 1206
+    params: 1208
+    params: 1210
+  }
+  entries {
+    index: 1206
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1207
+  }
+  entries {
+    index: 1207
+    tag: TYPEsym
+    name: 252
+    owner: 189
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1208
+    tag: VALsym
+    name: 605
+    owner: 189
+    flags: PARAM
+    info: 1209
+  }
+  entries {
+    index: 1209
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 248
+    targs: 1206
+    targs: 417
+  }
+  entries {
+    index: 1210
+    tag: VALsym
+    name: 609
+    owner: 189
+    flags: PARAM | BYNAMEPARAM
+    info: 429
+  }
+  entries {
+    index: 1211
+    tag: VALsym
+    name: 1107
+    owner: 189
+    flags: PARAM
+    info: 1212
+  }
+  entries {
+    index: 1212
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 56
+    targs: 1206
+  }
+  entries {
+    index: 1213
+    tag: POLYtpe
+    tpe: 1214
+    params: 1218
+  }
+  entries {
+    index: 1214
+    tag: METHODtpe
+    ret: 576
+    params: 1215
+  }
+  entries {
+    index: 1215
+    tag: VALsym
+    name: 1107
+    owner: 190
+    flags: PARAM
+    info: 1216
+  }
+  entries {
+    index: 1216
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 56
+    targs: 1217
+  }
+  entries {
+    index: 1217
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1218
+  }
+  entries {
+    index: 1218
+    tag: TYPEsym
+    name: 252
+    owner: 190
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1219
+    tag: POLYtpe
+    tpe: 1220
+    params: 1226
+  }
+  entries {
+    index: 1220
+    tag: METHODtpe
+    ret: 1221
+    params: 1223
+  }
+  entries {
+    index: 1221
+    tag: METHODtpe
+    ret: 417
+    params: 1222
+  }
+  entries {
+    index: 1222
+    tag: VALsym
+    name: 583
+    owner: 191
+    flags: PARAM | SYNTHETIC
+    info: 237
+  }
+  entries {
+    index: 1223
+    tag: VALsym
+    name: 1107
+    owner: 191
+    flags: PARAM
+    info: 1224
+  }
+  entries {
+    index: 1224
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 56
+    targs: 1225
+  }
+  entries {
+    index: 1225
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1226
+  }
+  entries {
+    index: 1226
+    tag: TYPEsym
+    name: 252
+    owner: 191
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1227
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 193
+  }
+  entries {
+    index: 1228
+    tag: CLASSINFOtpe
+    sym: 193
+    parents: 471
+  }
+  entries {
+    index: 1229
+    tag: METHODtpe
+    ret: 1227
+  }
+  entries {
+    index: 1230
+    tag: TERMname
+    value: "$minus$greater$extension"
+  }
+  entries {
+    index: 1231
+    tag: POLYtpe
+    tpe: 1232
+    params: 1238
+    params: 1236
+  }
+  entries {
+    index: 1232
+    tag: METHODtpe
+    ret: 1233
+    params: 1240
+  }
+  entries {
+    index: 1233
+    tag: METHODtpe
+    ret: 1234
+    params: 1239
+  }
+  entries {
+    index: 1234
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 457
+    targs: 1235
+    targs: 1237
+  }
+  entries {
+    index: 1235
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1236
+  }
+  entries {
+    index: 1236
+    tag: TYPEsym
+    name: 252
+    owner: 195
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1237
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1238
+  }
+  entries {
+    index: 1238
+    tag: TYPEsym
+    name: 255
+    owner: 195
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1239
+    tag: VALsym
+    name: 485
+    owner: 195
+    flags: PARAM
+    info: 1237
+  }
+  entries {
+    index: 1240
+    tag: VALsym
+    name: 1107
+    owner: 195
+    flags: PARAM
+    info: 1241
+  }
+  entries {
+    index: 1241
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 47
+    targs: 1235
+  }
+  entries {
+    index: 1242
+    tag: SYMANNOT
+    sym: 195
+    tpe: 392
+  }
+  entries {
+    index: 1243
+    tag: TERMname
+    value: "$u2192$extension"
+  }
+  entries {
+    index: 1244
+    tag: POLYtpe
+    tpe: 1245
+    params: 1251
+    params: 1249
+  }
+  entries {
+    index: 1245
+    tag: METHODtpe
+    ret: 1246
+    params: 1253
+  }
+  entries {
+    index: 1246
+    tag: METHODtpe
+    ret: 1247
+    params: 1252
+  }
+  entries {
+    index: 1247
+    tag: TYPEREFtpe
+    pre: 204
+    sym: 457
+    targs: 1248
+    targs: 1250
+  }
+  entries {
+    index: 1248
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1249
+  }
+  entries {
+    index: 1249
+    tag: TYPEsym
+    name: 252
+    owner: 196
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1250
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1251
+  }
+  entries {
+    index: 1251
+    tag: TYPEsym
+    name: 255
+    owner: 196
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1252
+    tag: VALsym
+    name: 485
+    owner: 196
+    flags: PARAM
+    info: 1250
+  }
+  entries {
+    index: 1253
+    tag: VALsym
+    name: 1107
+    owner: 196
+    flags: PARAM
+    info: 1254
+  }
+  entries {
+    index: 1254
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 47
+    targs: 1248
+  }
+  entries {
+    index: 1255
+    tag: POLYtpe
+    tpe: 1256
+    params: 1260
+  }
+  entries {
+    index: 1256
+    tag: METHODtpe
+    ret: 576
+    params: 1257
+  }
+  entries {
+    index: 1257
+    tag: VALsym
+    name: 1107
+    owner: 197
+    flags: PARAM
+    info: 1258
+  }
+  entries {
+    index: 1258
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 47
+    targs: 1259
+  }
+  entries {
+    index: 1259
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1260
+  }
+  entries {
+    index: 1260
+    tag: TYPEsym
+    name: 252
+    owner: 197
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+  entries {
+    index: 1261
+    tag: POLYtpe
+    tpe: 1262
+    params: 1268
+  }
+  entries {
+    index: 1262
+    tag: METHODtpe
+    ret: 1263
+    params: 1265
+  }
+  entries {
+    index: 1263
+    tag: METHODtpe
+    ret: 417
+    params: 1264
+  }
+  entries {
+    index: 1264
+    tag: VALsym
+    name: 583
+    owner: 198
+    flags: PARAM | SYNTHETIC
+    info: 237
+  }
+  entries {
+    index: 1265
+    tag: VALsym
+    name: 1107
+    owner: 198
+    flags: PARAM
+    info: 1266
+  }
+  entries {
+    index: 1266
+    tag: TYPEREFtpe
+    pre: 219
+    sym: 47
+    targs: 1267
+  }
+  entries {
+    index: 1267
+    tag: TYPEREFtpe
+    pre: 230
+    sym: 1268
+  }
+  entries {
+    index: 1268
+    tag: TYPEsym
+    name: 252
+    owner: 198
+    flags: DEFERRED | PARAM
+    info: 233
+  }
+}

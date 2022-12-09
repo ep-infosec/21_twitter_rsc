@@ -1,0 +1,59 @@
+#!/usr/bin/env python
+import os, re, subprocess, signal, sys, tempfile, time
+
+def fail():
+  print "usage: " + sys.argv[0] + " <suite>"
+  print ""
+  print "Supported bench suites:"
+  print "  * All: reproduces performance numbers from README.md"
+  sys.exit(1)
+if len(sys.argv) != 2: fail()
+suite = sys.argv[1]
+supported_suites = ["All"]
+if not suite in supported_suites: fail()
+
+def check_exists(path):
+  if not os.path.exists(path): raise Exception(path + " does not exist")
+  return path
+binary_path = check_exists(os.path.abspath(sys.argv[0]))
+repo_path = check_exists(os.path.dirname(os.path.dirname(binary_path)))
+
+start = time.time()
+sbt_command = ["sbt", "bench" + suite]
+_, sbt_log_path = tempfile.mkstemp(prefix = "_".join(sbt_command) + "_")
+print "Running " + " ".join(sbt_command)
+print "Logging to " + sbt_log_path
+sys.stdout.flush()
+sbt_process = subprocess.Popen(sbt_command, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, cwd=repo_path)
+while True:
+  line = sbt_process.stdout.readline()
+  if line != b'':
+    os.write(1, line)
+    with open(sbt_log_path, "a") as sbt_log_file:
+      sbt_log_file.write(line)
+  else:
+    break
+sbt_process.wait()
+if sbt_process.returncode == 0:
+  end = time.time()
+  print ""
+  print "Benchmarks completed in {0:.3f} s".format(end - start)
+  rows = []
+  rows.append(("Benchmark", "Mode", "Cnt", "Score"))
+  lengths = [0] * 255
+  with open(sbt_log_path, "r") as sbt_log_file:
+    for line in sbt_log_file:
+      m = re.search("(?:0m)?(\w+)\.run\s+(\w+)\s+(\d+)\s+(.*?\s+ms/op)", line)
+      if m:
+        row = m.groups()
+        for j, cell in enumerate(row): lengths[j] = max(len(cell), lengths[j])
+        rows.append(row)
+  if len(rows) > 1:
+    print ""
+    for row in rows:
+      for i, cell in enumerate(row):
+        fmt = "{0:<" + str(lengths[i] + 2) + "}"
+        text = cell.replace("  ", " ")
+        sys.stdout.write(fmt.format(text))
+      sys.stdout.write("\n")
+sys.exit(sbt_process.returncode)
